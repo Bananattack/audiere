@@ -3,13 +3,13 @@ $current_page = 'download';
 include 'page_header.inc';
 ?>
 
-<h3>1.9.2</h3>
-
 <p>
 To be notified when new versions of Audiere are released, sign up for the
 <a href="http://lists.sourceforge.net/lists/listinfo/audiere-annc">announcements
 mailing list</a>.
 </p>
+
+<h3>1.9.2</h3>
 
 <ul>
 <?php
