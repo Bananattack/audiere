@@ -14,16 +14,20 @@ Windows, OSS on Linux and Cygwin, and SGI AL on IRIX.
 </p>
 
 <p>
-Audiere is <a href="http://opensource.org/">open source</a> and licensed under
-the <a href="http://opensource.org/licenses/lgpl-license.html">LGPL</a>.
-Basically, if you make changes to the library, you have to release the source
-to your changes.
+Audiere is <a href="http://opensource.org/">open source</a> and
+licensed under the <a
+href="http://opensource.org/licenses/lgpl-license.html">LGPL</a>.
+This means that you may freely use Audiere in commercial products, as
+long as you do not modify the source code.  If you do modify Audiere
+and release a product that uses your modifications, you must release
+your changes to the code under the LGPL as well.
 </p>
 
 <p>
-Audiere is relatively portable.  It is tested on Windows, Linux-i386, Cygwin,
-and IRIX.  Most of Audiere is endianness-independent, so I expect it would
-work with few modifications on other architectures.
+Audiere is relatively portable.  It is tested on Windows, Linux-i386,
+Cygwin, and IRIX with at least three major compilers.  Most of Audiere
+is endian-independent, so I expect it would work with few
+modifications on other architectures.
 </p>
 
 <h2>News</h2>
