@@ -20,7 +20,7 @@ developer('Jacky Chong',
           'http://www.livejournal.com/users/darklich/',
           'Contributor');
 developer('Theo Reed',
-          'http://surreality.us:8080/~rizen/',
+          'http://www.surreality.us/',
           'Contributor');
 developer('Ben Scott',
           'http://www.vrac.iastate.edu/~bscott/',
