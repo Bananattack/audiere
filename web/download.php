@@ -16,7 +16,7 @@ mailing list</a>.
 download('audiere-1.9.3-win32.zip',   'Win32 Binary Release');
 download('audiere-1.9.3-sgi.tar.gz',  'SGI Binary Release');
 download('audiere-1.9.3.tar.gz',      'UNIX Source Release (.tar.gz)');
-download('audiere-1.9.3-src.tar.bz2', 'CVS Tree Snapshot');
+download('audiere-1.9.3-src.tar.bz2', 'Source Code Snapshot');
 ?>
 </ul>
 
@@ -27,7 +27,7 @@ download('audiere-1.9.3-src.tar.bz2', 'CVS Tree Snapshot');
 download('audiere-1.9.2-win32.zip', 'Win32 Binary Release');
 download('audiere-1.9.2.tar.gz',    'UNIX Source Release (.tar.gz)');
 download('audiere-1.9.2.tar.bz2',   'UNIX Source Release (.tar.bz2)');
-download('audiere-1.9.2-src.tbz',   'CVS Tree Snapshot');
+download('audiere-1.9.2-src.tbz',   'Source Code Snapshot');
 ?>
 </ul>
 
@@ -37,7 +37,7 @@ download('audiere-1.9.2-src.tbz',   'CVS Tree Snapshot');
 <?php
 download('audiere-1.9.1-win32.zip',   'Win32 Binary Release');
 download('audiere-1.9.1.tar.gz',      'UNIX Source Release');
-download('audiere-1.9.1-src.tbz',     'Source Snapshot'); 
+download('audiere-1.9.1-src.tbz',     'Source Code Snapshot'); 
 ?>
 </ul>
 
@@ -47,7 +47,7 @@ download('audiere-1.9.1-src.tbz',     'Source Snapshot');
 <?php
 download('audiere-1.9.0-win32.zip',   'Win32 Binary Release');
 download('audiere-1.9.0.tar.gz',      'UNIX Source Release');
-download('audiere-1.9.0-src.tar.bz2', 'Source Snapshot');
+download('audiere-1.9.0-src.tar.bz2', 'Source Code Snapshot');
 ?>
 </ul>
 
