@@ -6,11 +6,13 @@ include 'page_header.inc';
 <h2>Overview</h2>
 
 <p>
-Audiere is a high-level audio API.  It can understand
+Audiere is a high-level audio API.  It can play
 <a href="http://vorbis.com/">Ogg Vorbis</a>, MP3,
 <a href="http://flac.sourceforge.net/">FLAC</a>,
-uncompressed WAV, MOD, S3M, XM, IT.  It supports DirectSound or WinMM in
-Windows, OSS on Linux and Cygwin, and SGI AL on IRIX.
+uncompressed WAV, AIFF,
+<a href="http://dumb.sourceforge.net/">MOD, S3M, XM, and IT</a> files.
+For audio output, Audiere supports DirectSound or WinMM in Windows, OSS
+on Linux and Cygwin, and SGI AL on IRIX.
 </p>
 
 <p>
@@ -24,13 +26,122 @@ your changes to the code under the LGPL as well.
 </p>
 
 <p>
-Audiere is relatively portable.  It is tested on Windows, Linux-i386,
+Audiere is portable.  It is tested on Windows, Linux-i386,
 Cygwin, and IRIX with at least three major compilers.  Most of Audiere
 is endian-independent, so I expect it would work with few
 modifications on other architectures.
 </p>
 
 <h2>News</h2>
+
+<h3>2003.07.15 - Audiere 1.9.3 Released</h3>
+
+<p>
+Been six months since the last release...
+</p>
+
+<ul>
+<li>Replaced MikMod with an actively-maintained MOD decoding engine:
+DUMB (http://dumb.sf.net) Overall, the change is for the better, but
+there are a few important changes to be noted:</li>
+
+<ul>
+<li>fixed a crash in certain Impulse Tracker files</li>
+<li>mod looping now works correctly</li>
+<li>some previously-unsupported effects now work</li>
+<li>opening a mod stream now takes significantly longer, since
+    DUMB builds up an internal seek table, which is currently
+    unused</li>
+<li>playing mod files now takes roughly five times more CPU time
+    than it used to</li>
+<li>DUMB works on big-endian architectures (such as MIPS (sgi) and
+    PowerPC (mac)), where MikMod did not</li>
+<li>DUMB tries to match the exact behavior of the "official"
+    trackers (that is, Impulse Tracker, Scream Tracker 3, and Fast
+    Tracker), so some mods that sounded fine in ModPlug Tracker or
+    Winamp (MikMod) may sound strange.  For example, some of the
+    Amstrocity remixes of Squaresoft songs have distortion caused
+    by volume range clipping when played in DUMB.</li>
+</ul>
+
+<li>Added AIFF support</li>.
+
+<li>Added support for custom loop points via the LoopPointSource
+interface.</li>
+
+<li>SoundEffect objects in SINGLE mode no longer stream from the
+sample source.</li>
+
+<li>If a stream is set to repeat, then MOD loop points are honored.
+Otherwise, a MOD loop point causes the stream to stop.</li>
+
+<li>The configure script tries to link a small wxWindows application
+rather than trusting the existence of wx-config in order to find out
+if wxWindows exists.</li>
+
+<li>Made the FLAC decoder use libFLAC instead of libFLAC++.  This
+makes it easier to compile on platforms with differing C++ ABIs, such
+as IRIX (MIPSPro CC vs. GNU g++).</li>
+
+<li>Removed the VC7 build system.  It's out of date, nobody uses it,
+and they could just open the VC6 one in VC7 anyway.</li>
+
+<li>Added setRepeat() and getRepeat() to the SampleSource interface.
+This architecture change is required in order to support sample
+sources with non-standard looping functionality, such as loop points
+within MOD or AIFF files.</i>
+
+<li>Gave wxPlayer a crappy icon.  A better one would be welcome.  :)</li>
+
+<li>Fixed some unaligned reads in the MP3 decoder code, which caused
+Audiere on SGI/IRIX to crash.</li>
+
+<li>Fixed some edge cases involving small sounds, DirectSound streams,
+and the repeating flag.</li>
+
+<li>Added min_buffer_length device parameter to DirectSound device to
+prevent static in very small sounds.</li>
+
+<li>Fixed short bursts of periodic static while decoding MP3s.  it
+appears to be a result of the Visual C++ optimizer interacting with
+the MP3 decoder code.  (I can't claim that is an optimization bug
+yet...  there could be some invalid aliasing going on in the
+code.)</li>
+
+<li>Fixed bug where resetting an MP3 input stream would emit a short
+burst of static.</li>
+
+<li>Fixed static between repeats in repeatable streams (thanks
+valgrind!)</li>
+
+<li>Fixed an exit crash on some systems by adding a CoUninitialize
+call to the DirectSound device destructor.</li>
+
+<li>You can now specify what format you are loading for efficiency
+reasons.</li>
+
+<li>Fixed a bug in the DirectSound streaming code where you would hear
+the beginning of some sounds before they actually stopped.</li>
+
+<li>Added getName() method to AudioDevice.</li>
+
+<li>You can now pass smart pointers straight into API calls, for
+example:
+<pre>
+AudioDevicePtr device = OpenDevice();
+OutputStreamPtr sound = OpenSound(device, "blah.wav");
+sound->play();
+</pre>
+</li>
+
+<li>Added support for MemoryFile objects.</li>
+
+<li>Removed support for OpenAL because it was causing compile issues on
+systems with different and incompatible versions of OpenAL.</li>
+
+<li>No longer use the MTM or STM mikmod loaders because they crash on
+certain wav files.</li>
+</ul>
 
 <h3>2003.01.06 - Audiere 1.9.2 Released</h3>
 

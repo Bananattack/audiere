@@ -12,16 +12,16 @@ echo '<ul>';
 
 developer('Chad Austin',
           'http://aegisknight.org/',
-          'Developer and Project Manager');
+          'Lead Developer');
 developer('Jacky Chong',
           'http://www.livejournal.com/users/darklich/',
-          'Developer');
+          'Contributor');
 developer('Theo Reed',
           'http://surreality.us:8080/~rizen/',
-          'Developer');
+          'Contributor');
 developer('Ben Scott',
           'http://www.vrac.iastate.edu/~bscott/',
-          'Developer');
+          'Contributor');
 
 echo '</ul>';
 ?>
