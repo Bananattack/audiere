@@ -3,11 +3,19 @@ $current_page = 'download';
 include 'page_header.inc';
 ?>
 
+<h3>1.9.1</h3>
+
+<?php
+download('audiere-1.9.1-win32.zip',   'Win32 Binary Release');
+download('audiere-1.9.1.tar.gz',      'UNIX Source Release');
+download('audiere-1.9.1-src.tar.bz2', 'Source Snapshot'); 
+?>
+
 <h3>1.9.0</h3>
 
 <ul>
 <?php
-download('audiere-1.9.0-win32.zip',         'Win32 Binary Release');
+download('audiere-1.9.0-win32.zip',   'Win32 Binary Release');
 download('audiere-1.9.0.tar.gz',      'UNIX Source Release');
 download('audiere-1.9.0-src.tar.bz2', 'Source Snapshot');
 ?>

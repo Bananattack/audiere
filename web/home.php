@@ -7,9 +7,10 @@ include 'page_header.inc';
 
 <p>
 Audiere is a high-level audio API.  It can understand
-<a href="http://vorbis.com/">Ogg Vorbis</a>, uncompressed WAV,
-MOD, S3M, XM, IT.  It supports DirectSound in Windows and OSS on
-Linux and Cygwin, and SGI AL on IRIX.
+<a href="http://vorbis.com/">Ogg Vorbis</a>, MP3,
+<a href="http://flac.sourceforge.net/">FLAC</a>,
+uncompressed WAV, MOD, S3M, XM, IT.  It supports DirectSound or WinMM in
+Windows, OSS on Linux and Cygwin, and SGI AL on IRIX.
 </p>
 
 <p>
@@ -26,6 +27,37 @@ work with few modifications on other architectures.
 </p>
 
 <h2>News</h2>
+
+<h3>2002.10.12 - Audiere 1.9.1 Released</h3>
+
+<p>
+This release is a good step towards 2.0, even though it still shouldn't be
+considered 100% rock solid.  (It seems to work fine for me though, so go
+ahead and download it.)
+</p>
+
+<p>
+Here is the list of changes since 1.9.0:
+</p>
+
+<ul>
+<li>added GetSupportedFileFormats for file format enumeration</li>
+<li>added audiere-config script which provides version information and external library dependencies</li>
+<li>finer synchronization granularity on DirectSound output streams for lower-latency OutputStream calls</li>
+<li>increase priority of Audiere update thread on all platforms but Win9x, which deadlocks</li>
+<li>MP3 support via splay's mpegsound (thanks to Chad Austin and Jacky Chong)</li>
+<li>read 10 MP3 frames for smoother playback on corrupt (?) files</li>
+<li>added ClassPtr convenience typedefs so people can use them instead of RefPtr<Class></li>
+<li>the configure script outputs the URLs for required libraries if it can't find them</li>
+<li>FLAC support (thanks to Chad Austin and Jacky Chong)</li>
+<li>added the SoundEffect convenience class for simple sound playback</li>
+<li>added menu item to close wxPlayer so you can close child windows in wxGTK</li>
+<li>added pitch shifting to the OutputStream interface</li>
+<li>added square wave generation</li>
+<li>added white noise generation</li>
+<li>added pink noise generation</li>
+<li>updated wxPlayer</li>
+</ul>
 
 <h3>2002.09.07 (9:11 p.m. CST) - 1.9.0 Release Updated</h3>
 
