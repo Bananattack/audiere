@@ -6,9 +6,9 @@ include 'page_header.inc';
 <ul>
 
 <?php
-download('audiere-win32.zip',         'Win32 Binary Release');
-download('audiere-1.0.4.tar.gz',      'UNIX Source Release');
-download('audiere-1.0.4-src.tar.bz2', 'Source Snapshot');
+download('audiere-1.9.0-win32.zip',         'Win32 Binary Release');
+download('audiere-1.9.0.tar.gz',      'UNIX Source Release');
+download('audiere-1.9.0-src.tar.bz2', 'Source Snapshot');
 ?>
 
 </ul>

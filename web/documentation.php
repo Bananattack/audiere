@@ -15,10 +15,10 @@ from looking at it.
 </p>
 
 <ul>
-<li><a href="doxygen/">API Reference (Web)</a></li>
-<?php download('audiere-doxygen.zip',    'API Reference (.zip format)'); ?>
-<?php download('audiere-doxygen.tar.gz', 'API Reference (.tar.gz format)'); ?>
-<?php download('audiere.chm',            'API Reference (HTMLHelp format)'); ?>
+<li><a href="audiere-1.9.0-doxygen/">API Reference (Web)</a></li>
+<?php download('audiere-1.9.0-doxygen.zip',    'API Reference (.zip format)'); ?>
+<?php download('audiere-1.9.0-doxygen.tar.gz', 'API Reference (.tar.gz format)'); ?>
+<?php download('audiere-1.9.0.chm',            'API Reference (HTMLHelp format)'); ?>
 </ul>
 
 <h2>Frequently Asked Questions</h2>

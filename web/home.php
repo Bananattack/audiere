@@ -9,7 +9,7 @@ include 'page_header.inc';
 Audiere is a high-level audio API.  It can understand
 <a href="http://vorbis.com/">Ogg Vorbis</a>, uncompressed WAV,
 MOD, S3M, XM, IT.  It supports DirectSound in Windows and OSS on
-UNIX.
+Linux and Cygwin, and SGI AL on IRIX.
 </p>
 
 <p>
@@ -20,12 +20,57 @@ to your changes.
 </p>
 
 <p>
-Audiere is relatively portable.  It is tested on Windows and Linux-i386.
-Unfortunately, Audiere depends on MikMod, which has all sorts of endian issues,
-and most certainly does not work on big-endian architectures.
+Audiere is relatively portable.  It is tested on Windows, Linux-i386, Cygwin,
+and IRIX.  Most of Audiere is endianness-independent, so I expect it would
+work with few modifications on other architectures.
 </p>
 
 <h2>News</h2>
+
+<h3>2002.09.07 - Audiere 1.9.0 Released</h3>
+
+<p>
+Finally, it's here!  This is a major release, designed to get the new API
+tested before 2.0 is released.  I would say 1.9.0 should be considered beta,
+but I feel it is so much better than the last 'stable' release (1.0.4) that
+there is no reason not to upgrade.
+</p>
+
+<p>
+The following is planned for 2.0: 3D spatialization, FLAC support,
+MP3 support (again, this time using an LGPL library), supported file
+type enumeration, pitch bending and other DSP effects, AIFF support,
+and ADPCM compressed WAV support.
+</p>
+
+<p>
+Here is what changed since 1.0.4:
+</p>
+
+<ul>
+<li>completely new API, defined in C++</li>
+<li>made Audiere objects reference counted</li>
+<li>support for seeking within WAV and Ogg Vorbis files</li>
+<li>support for preloading sounds instead of always streaming from disk</li>
+<li>updated Python, XPCOM, and Java bindings</li>
+<li>upgraded to Ogg Vorbis 1.0</li>
+<li>major performance improvement in DSOutputStream::isPlaying</li>
+<li>Ogg Vorbis decoder now works properly on big-endian architectures</li>
+<li>WAV reader works properly on big-endian architectures</li>
+<li>general support for big-endian architectures</li>
+<li>SGI AL (Audio Library) output support</li>
+<li>WinMM output support</li>
+<li>new SampleBuffer object for loading a sound once and playing it multiple times</li>
+<li>SCons build system for MIPSPro on IRIX</li>
+<li>interfaces now use __stdcall on Windows so they are more compliant with COM</li>
+<li>completely new wxPlayer</li>
+<li>fixed bug on Linux where, the more streams were playing, the lower the overall volume would be</li>
+<li>implemented the REAL fix for the DirectSound stream-repeating bug</li>
+<li>support for low-pass filters on .it files (enabled DMODE_RESONANCE in mikmod)</li>
+<li>readded stereo panning support</li>
+<li>switched volume to normalized floats [0, 1] instead of [0, 255]</li>
+<li>added a tone generator</li>
+</ul>
 
 <h3>2002.06.10 - Audiere 1.0.4 Released</h3>
 
