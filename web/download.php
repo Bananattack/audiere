@@ -13,10 +13,10 @@ mailing list</a>.
 
 <ul>
 <?php
-download('audiere-1.9.3-win32.zip',  'Win32 Binary Release');
-download('audiere-1.9.3-sgi.tar.gz', 'SGI Binary Release');
-download('audiere-1.9.3.tar.gz',     'UNIX Source Release (.tar.gz)');
-download('audiere-1.9.3-src.tbz',    'CVS Tree Snapshot');
+download('audiere-1.9.3-win32.zip',   'Win32 Binary Release');
+download('audiere-1.9.3-sgi.tar.gz',  'SGI Binary Release');
+download('audiere-1.9.3.tar.gz',      'UNIX Source Release (.tar.gz)');
+download('audiere-1.9.3-src.tar.bz2', 'CVS Tree Snapshot');
 ?>
 </ul>
 
