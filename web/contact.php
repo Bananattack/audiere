@@ -22,6 +22,9 @@ developer('Jacky Chong',
 developer('Theo Reed',
           'http://www.surreality.us/',
           'Contributor');
+developer('Richard Schaaf',
+          'mailto:audiere_at_hierzo_dot_com',
+          'Contributor');
 developer('Ben Scott',
           'http://www.vrac.iastate.edu/~bscott/',
           'Contributor');
