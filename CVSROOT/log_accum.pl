@@ -87,6 +87,7 @@ my $FILE_PREFIX = "#cvs.files";
 #}
 
 $MAILADDRS = 'audiere-commits@lists.sourceforge.net';
+$PROJECT = 'audiere';
 
 ############################################################
 #
@@ -112,7 +113,7 @@ my $TAGS_FILE     = "$BASE_FN.tags";
 
 my $X_BRANCH_HDR  = "X-ISUGameDev-CVS-Branch:";
 
-my $CVSROOT       = $ENV{'CVSROOT'} || "/cvsroot/isugamedev";
+my $CVSROOT       = $ENV{'CVSROOT'} || "/cvsroot/$PROJECT";
 
 my $PID = getpgrp();		# Process id; used for generating filenames.
 
@@ -592,7 +593,7 @@ sub format_summaries {
 
 		if ( $minor_rev > 1 ) {
 			my $old_minor_rev = $minor_rev - 1;
-			push(@text, "http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/isugamedev/$files[$rev].diff?r1=$major_rev.$old_minor_rev\&r2=$revs[$rev]");
+			push(@text, "http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/$PROJECT/$files[$rev].diff?r1=$major_rev.$old_minor_rev\&r2=$revs[$rev]");
 		}
 	}
 
