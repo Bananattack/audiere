@@ -31,7 +31,7 @@ work with few modifications on other architectures.
 <h3>2003.01.06 - Audiere 1.9.2 Released</h3>
 
 <p>
-Another release on the road towards 1.0...  No reason not to upgrade!
+Another release on the road towards 2.0...  No reason not to upgrade!
 </p>
 
 <p>Changes since 1.9.1:</p>
