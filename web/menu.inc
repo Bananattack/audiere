@@ -23,7 +23,7 @@ function entry($name, $title) {
 
 <?php
 entry('home',          'Overview and News');
-entry('features',      'Audiere's Functionality');
+entry('features',      'Audiere\'s Functionality');
 entry('download',      'Download the Software');
 entry('documentation', 'How to Use Audiere');
 entry('users',         'Projects that Use Audiere');
