@@ -12,6 +12,7 @@ Projects that use Audiere are listed here.
 <li><a href="http://www.eitbit.com/games">Eitbit Games</a></li>
 <li><a href="http://www.freedombox.info">FreedomBox</a></li>
 <li><a href="http://ikagames.com/">ika</a></li>
+<li><a href="http://imvu.com/">IMVU</a></li>
 <li><a href="http://www.in-poculis.com/">In-Poculis</a></li>
 <li><a href="http://irrlicht.sourceforge.net">Irrlicht Engine</a></li>
 <li><a href="http://isugamedev.sf.net/">ISU Game Developers Club</a></li>
