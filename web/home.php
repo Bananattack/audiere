@@ -66,7 +66,7 @@ are a few important changes to be noted:
 </ul>
 </li>
 
-<li>Added AIFF support</li>.
+<li>Added AIFF support.</li>
 
 <li>Added support for custom loop points via the LoopPointSource
 interface.</li>
@@ -91,7 +91,7 @@ and they could just open the VC6 one in VC7 anyway.</li>
 <li>Added setRepeat() and getRepeat() to the SampleSource interface.
 This architecture change is required in order to support sample
 sources with non-standard looping functionality, such as loop points
-within MOD or AIFF files.</i>
+within MOD or AIFF files.</li>
 
 <li>Gave wxPlayer a crappy icon.  A better one would be welcome.  :)</li>
 
