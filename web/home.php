@@ -27,6 +27,16 @@ work with few modifications on other architectures.
 
 <h2>News</h2>
 
+<h3>2002.09.07 (9:11 p.m. CST) - 1.9.0 Release Updated</h3>
+
+<p>
+That'll teach me from not testing on Linux before releasing...  I
+have updated the download to include a very minor fix which allows
+it to compile on Linux.  There was also a stupid mistake in the tutorial
+(fixed thanks to Ben Scott).  If you downloaded 1.9.0 earlier, please
+download it again.
+ </p>
+
 <h3>2002.09.07 - Audiere 1.9.0 Released</h3>
 
 <p>
