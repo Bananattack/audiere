@@ -18,6 +18,7 @@ Projects that use Audiere are listed here.
 <li><a href="http://ikagames.com/andy">v26 and neoverge</a></li>
 <li><a href="http://valengames.com/">Valen Games</a></li>
 <li><a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a></li>
+<li><a href="http://www.vrjuggler.org/">VR Juggler</a></li>
 </ul>
 
 <p>
