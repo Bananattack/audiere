@@ -13,6 +13,9 @@ echo '<ul>';
 developer('Chad Austin',
           'http://aegisknight.org/',
           'Lead Developer');
+developer('Matt Campbell',
+          'http://pobox.com/~mattcampbell/',
+          'Contributer');
 developer('Jacky Chong',
           'http://www.livejournal.com/users/darklich/',
           'Contributor');
