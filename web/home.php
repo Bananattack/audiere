@@ -41,9 +41,10 @@ Been six months since the last release...
 </p>
 
 <ul>
-<li>Replaced MikMod with an actively-maintained MOD decoding engine:
-DUMB (http://dumb.sf.net) Overall, the change is for the better, but
-there are a few important changes to be noted:</li>
+<li>
+Replaced MikMod with an actively-maintained MOD decoding engine: DUMB
+(http://dumb.sf.net) Overall, the change is for the better, but there
+are a few important changes to be noted:
 
 <ul>
 <li>fixed a crash in certain Impulse Tracker files</li>
@@ -63,6 +64,7 @@ there are a few important changes to be noted:</li>
     Amstrocity remixes of Squaresoft songs have distortion caused
     by volume range clipping when played in DUMB.</li>
 </ul>
+</li>
 
 <li>Added AIFF support</li>.
 
