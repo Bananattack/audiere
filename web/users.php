@@ -9,6 +9,7 @@ Projects that use Audiere are listed here.
 
 <ul>
 <li><a href="http://www.avenger.sk/">Avenger</a></li>
+<li><a href="http://www.enkord.com/clashnslash/">Clash'N Slash</a></li>
 <li><a href="http://www.eitbit.com/games">Eitbit Games</a></li>
 <li><a href="http://www.freedombox.info">FreedomBox</a></li>
 <li><a href="http://ikagames.com/">ika</a></li>
