@@ -3,6 +3,12 @@ $current_page = 'links';
 include 'page_header.inc';
 ?>
 
+<h2>General Links</h2>
+
+<ul>
+<li><a href="http://musicdsp.org/">musicdsp.org</a></li>
+</ul>
+
 <h2>The Competition</h2>
 
 <ul>
