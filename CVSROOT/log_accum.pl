@@ -86,7 +86,7 @@ my $FILE_PREFIX = "#cvs.files";
 #	$MAILADDRS = $meister if $DEBUG;
 #}
 
-$MAILADDRS = 'audiere-commits@lists.sf.net';
+$MAILADDRS = 'audiere-commits@lists.sourceforge.net';
 
 ############################################################
 #
