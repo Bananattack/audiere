@@ -8,13 +8,14 @@ Projects that use Audiere are listed here.
 </p>
 
 <ul>
-<li><a href="http://isugamedev.sf.net/">ISU Game Developers Club</a></li>
-<li><a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a></li>
-<li><a href="http://aegisknight.org/sphere">Sphere</a></li>
 <li><a href="http://ikagames.com/">ika</a></li>
-<li><a href="http://ikagames.com/andy">v26 and neoverge</a></li>
+<li><a href="http://irrlicht.sourceforge.net">Irrlicht Engine</a></li>
+<li><a href="http://isugamedev.sf.net/">ISU Game Developers Club</a></li>
 <li><a href="http://jdsgames.com/">JDSGames</a></li>
+<li><a href="http://aegisknight.org/sphere">Sphere</a></li>
+<li><a href="http://ikagames.com/andy">v26 and neoverge</a></li>
 <li><a href="http://valengames.com/">Valen Games</a></li>
+<li><a href="http://www.vrac.iastate.edu/">Virtual Reality Applications Center</a></li>
 </ul>
 
 <p>
