@@ -28,6 +28,29 @@ work with few modifications on other architectures.
 
 <h2>News</h2>
 
+<h3>2003.01.06 - Audiere 1.9.2 Released</h3>
+
+<p>
+Another release on the road towards 1.0...  No reason not to upgrade!
+</p>
+
+<p>Changes since 1.9.1:</p>
+
+<ul>
+<li>many general improvements to wxPlayer</li>
+<li>use __declspec instead of def files for mingw compatiblity</li>
+<li>build the winmm audio device in Cygwin if it's available</li>
+<li>build the DirectSound audio device in Cygwin if it's available</li>
+<li>greatly improved linearity of the volume property in the DirectSound device (Mik Popov)</li>
+<li>add support for audio device enumeration</li>
+<li>enable setting the GLOBAL_FOCUS bit on DS surfaces via the global= device parameter</li>
+<li>enable choosing nonstandard DirectSound devices via the device_guid= device parameter</li>
+<li>drastic performance increase when using MULTIPLE sound effects</li>
+<li>implement volume, panning, and pitch shift on SoundEffect objects</li>
+<li>improved latency of SGI audio device</li>
+<li>disable Ogg or FLAC if 'configure' can't find them.</li>
+</ul>
+
 <h3>2002.10.12 - Audiere 1.9.1 Released</h3>
 
 <p>

@@ -13,7 +13,7 @@ include 'page_header.inc';
 <li>Streaming and buffered audio</li>
 <li>Volume, pan, and pitch shift modification</li>
 <li>Flat tone, square wave, white noise, and pink noise generation</li>
-<li>Runtime enumeration of supported file formats</li>
+<li>Runtime enumeration of audio devices and supported file formats</li>
 <li>Custom file streams</li>
 <li>Python, Java, and XPCOM (JavaScript in Mozilla) bindings</li>
 </ul>

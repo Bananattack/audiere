@@ -3,6 +3,17 @@ $current_page = 'download';
 include 'page_header.inc';
 ?>
 
+<h3>1.9.2</h3>
+
+<ul>
+<?php
+download('audiere-1.9.2-win32.zip', 'Win32 Binary Release');
+download('audiere-1.9.2.tar.gz',    'UNIX Source Release (.tar.gz)');
+download('audiere-1.9.2.tar.bz2',   'UNIX Source Release (.tar.bz2)');
+download('audiere-1.9.2-src.tbz',   'CVS Tree Snapshot');
+?>
+</ul>
+
 <h3>1.9.1</h3>
 
 <ul>
