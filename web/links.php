@@ -13,6 +13,7 @@ include 'page_header.inc';
 
 <ul>
 <li><a href="http://musicdsp.org/">musicdsp.org</a></li>
+<li><a href="http://www.dspguru.com/">dspguru.com</a></li>
 </ul>
 
 <h2>The Competition</h2>
