@@ -14,7 +14,7 @@ Projects that use Audiere are listed here.
 <li><a href="http://www.in-poculis.com/">In-Poculis</a></li>
 <li><a href="http://irrlicht.sourceforge.net">Irrlicht Engine</a></li>
 <li><a href="http://isugamedev.sf.net/">ISU Game Developers Club</a></li>
-<li><a href="http://jdsgames.com/">JDSGames</a></li>
+<li><a href="http://www.jarroddavis.com/">Jarrod Davis Software</a></li>
 <li><a href="http://aegisknight.org/sphere">Sphere</a></li>
 <li><a href="http://pubpages.unh.edu/~shirokov/ssr/">Super Slot Racers</a></li>
 <li><a href="http://ikagames.com/andy">v26 and neoverge</a></li>
