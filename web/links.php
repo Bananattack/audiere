@@ -3,7 +3,13 @@ $current_page = 'links';
 include 'page_header.inc';
 ?>
 
-<h2>General Links</h2>
+<h2>Audiere Sites</h2>
+
+<ul>
+<li><a href="http://www.familie-schliess.de/audiere/">Audiere for Purebasic</a></li>
+</ul>
+
+<h2>General Digital Audio Links</h2>
 
 <ul>
 <li><a href="http://musicdsp.org/">musicdsp.org</a></li>
