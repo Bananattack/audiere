@@ -47,7 +47,7 @@ Here is the list of changes since 1.9.0:
 <li>increase priority of Audiere update thread on all platforms but Win9x, which deadlocks</li>
 <li>MP3 support via splay's mpegsound (thanks to Chad Austin and Jacky Chong)</li>
 <li>read 10 MP3 frames for smoother playback on corrupt (?) files</li>
-<li>added ClassPtr convenience typedefs so people can use them instead of RefPtr<Class></li>
+<li>added ClassPtr convenience typedefs so people can use them instead of RefPtr&lt;Class&gt;</li>
 <li>the configure script outputs the URLs for required libraries if it can't find them</li>
 <li>FLAC support (thanks to Chad Austin and Jacky Chong)</li>
 <li>added the SoundEffect convenience class for simple sound playback</li>
