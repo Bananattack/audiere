@@ -13,6 +13,7 @@ Projects that use Audiere are listed here.
 <li><a href="http://aegisknight.org/sphere">Sphere</a></li>
 <li><a href="http://ikagames.com/andy">v26 and neoverge</a></li>
 <li><a href="http://jdsgames.com/">JDSGames</a></li>
+<li><a href="http://valengames.com/">Valen Games</a></li>
 </ul>
 
 <p>
