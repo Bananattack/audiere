@@ -9,6 +9,7 @@ Projects that use Audiere are listed here.
 
 <ul>
 <li><a href="http://www.avenger.sk/">Avenger</a></li>
+<li><a href="http://caelestis.sourceforge.net/">Caelestis Crepusculum</a></li>
 <li><a href="http://ikagames.com/">ika</a></li>
 <li><a href="http://irrlicht.sourceforge.net">Irrlicht Engine</a></li>
 <li><a href="http://isugamedev.sf.net/">ISU Game Developers Club</a></li>
