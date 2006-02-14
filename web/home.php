@@ -34,6 +34,53 @@ modifications on other architectures.
 
 <h2>News</h2>
 
+<h3>2006.02.13 - Audiere 1.9.4 Released</h3>
+
+<p>It's been about two and a half years since the previous release of
+Audiere, and much has happened in that time.  Here are the highlights:</p>
+
+<ul>
+
+<li>Replaced mpegsound with a stand-alone version of the MPEG audio decoder
+from ffmpeg's libavcodec library.  The result is an MP3 decoder that is
+more portable and works with more MP3 files.  MP3 files are now seekable
+as well.  (Matt Campbell)</li>
+
+<li>Added Speex support.</li>
+
+<li>Added support for reading metadata tags from sample sources.  So far,
+Vorbis comments are supported, as are ID3v1 and ID3v1.1 tags in MP3 files.
+Interface designed with help from Brian Robb and Andy Friesen.</li>
+
+<li>Added callback system for stream stop events.  (Richard Schaaf and
+Chad Austin)</li>
+
+<li>Added CD audio support, using the MCI subsystem on Win32/Cygwin and
+libcdaudio on Linux.  (Chad Austin and Richard Schaaf)</li>
+
+<li>Added MIDI support through the MCI subsystem on Win32 and Cygwin.
+(Chad Austin)</li>
+
+<li>Dramatically reduced the latency of the OSS device.  (Matt Campbell)</li>
+
+<li>Rewrote the Resampler class to use DUMB's cubic interpolation resampler,
+resulting in much better resampling for devices such as OSS that use
+Audiere's own mixer.  (Matt Campbell)</li>
+
+<li> Added bindings to wxWidgets.  (Emanuel Dejanu)</li>
+
+<li>Fixed a bug in the DirectSound device implementation which significantly
+slowed down opening of devices and buffers.  (Matt Campbell)</li>
+
+<li>Added pitchshift to the Python bindings.  (Jason Chu)</li>
+
+<li>Split Doxygen documentation into one for users and one for developers.</li>
+
+</ul>
+
+<p>This release also includes the usual slew of other bug fixes and minor
+improvements.  For complete details, please refer to the change log.</p>
+
 <h3>2003.07.15 - Audiere 1.9.3 Released</h3>
 
 <p>

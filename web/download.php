@@ -9,6 +9,16 @@ To be notified when new versions of Audiere are released, sign up for the
 mailing list</a>.
 </p>
 
+<h3>1.9.4</h3>
+
+<ul>
+<?php
+download('audiere-1.9.4-win32.zip',   'Win32 Binary Release');
+download('audiere-1.9.4.tar.gz',      'UNIX Source Release (.tar.gz)');
+download('audiere-1.9.4-src.tar.bz2', 'Source Code Snapshot');
+?>
+</ul>
+
 <h3>1.9.3</h3>
 
 <ul>

@@ -15,11 +15,17 @@ from looking at it.
 </p>
 
 <ul>
-<li><a href="audiere-1.9.3-doxygen/">API Reference (Web)</a></li>
+<li><a href="audiere-1.9.4-users-doxygen/">API Reference (Web)</a></li>
 <?php
-download('audiere-1.9.3-doxygen.chm',     'API Reference (HTMLHelp format)');
-download('audiere-1.9.3-doxygen.zip',     'API Reference (.zip format)');
-download('audiere-1.9.3-doxygen.tar.bz2', 'API Reference (.tar.bz2 format)');
+download('audiere-1.9.4-users-doxygen.chm',     'API Reference (HTMLHelp format)');
+download('audiere-1.9.4-users-doxygen.zip',     'API Reference (.zip format)');
+download('audiere-1.9.4-users-doxygen.tar.bz2', 'API Reference (.tar.bz2 format)');
+?>
+<li><a href="audiere-1.9.4-devel-doxygen/">Developer Reference (Web)</a></li>
+<?php
+download('audiere-1.9.4-devel-doxygen.chm',     'Developer Reference (HTMLHelp format)');
+download('audiere-1.9.4-devel-doxygen.zip',     'Developer Reference (.zip format)');
+download('audiere-1.9.4-devel-doxygen.tar.bz2', 'Developer Reference (.tar.bz2 format)');
 ?>
 </ul>
 
