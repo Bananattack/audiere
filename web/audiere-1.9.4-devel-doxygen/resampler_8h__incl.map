@@ -1,0 +1,6 @@
+base referer
+rect $audiere_8h.html 326,259 403,285
+rect $debug_8h.html 178,81 247,108
+rect $dumb__resample_8h.html 148,157 276,184
+rect $types_8h.html 331,208 398,235
+rect $utility_8h.html 180,309 244,336

@@ -1,0 +1,4 @@
+base referer
+rect $audiere_8h.html 130,56 207,83
+rect $threads_8h.html 130,107 207,133
+rect $debug_8h.html 258,107 327,133

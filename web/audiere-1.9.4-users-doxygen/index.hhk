@@ -1,0 +1,557 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#1d3f099f11da96bcc6f7c5b42ba50989"><param name="Name" value="addLoopPoint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#4f884dc0c0f411603798953f752d7543"><param name="Name" value="ADR_CALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#21ab6bef284e8eb41b2e9f5c7a863d70"><param name="Name" value="ADR_DECL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#05395ec5538872ff8d4e325177b43aca"><param name="Name" value="ADR_FUNCTION"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#1050c1ecba16146bd5b87041b9bfed6c"><param name="Name" value="ADR_METHOD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#0e660776ab4cb90aa4fb77a377848738"><param name="Name" value="AdrCreateLoopPointSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#2ac6574fa7f32ef26190a1543a15a082"><param name="Name" value="AdrCreateMemoryFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#9f511bebb5304684a2b8853d9b3951a4"><param name="Name" value="AdrCreatePinkNoise"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#a6fb22d76f7cf70cbf28525880670901"><param name="Name" value="AdrCreateSampleBuffer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#bd035ef0de4521edcd4d7f8b918ba9b7"><param name="Name" value="AdrCreateSampleBufferFromSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#5c95a2bcd6f705e92c1b03e244e9b093"><param name="Name" value="AdrCreateSquareWave"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#e5adca6aae5332f7756fa0bc3d8fc37b"><param name="Name" value="AdrCreateTone"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#e45772c21750a92f4c00e6239734b8db"><param name="Name" value="AdrCreateWhiteNoise"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#8539628fcb9e52bae4bcf685a7d07569"><param name="Name" value="AdrEnumerateCDDevices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#e4f69e9885c49880473878f14359e54b"><param name="Name" value="AdrGetSampleSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#f0cfc82ad099963738e8bd6383f7bacb"><param name="Name" value="AdrGetSupportedAudioDevices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#3243baa774707302150aec0ee822a242"><param name="Name" value="AdrGetSupportedFileFormats"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#9235dc8958fd4a902ce3f83933ed70bb"><param name="Name" value="AdrGetVersion"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#3d6d5e7c166bb622f5918b7b1a9c177c"><param name="Name" value="AdrOpenCDDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#cbfd45fa16e676015f347c831f9025fd"><param name="Name" value="AdrOpenDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#cf9918638a587af7380c95ea43f14434"><param name="Name" value="AdrOpenFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#25d988586f8bd130add6afad510e49f0"><param name="Name" value="AdrOpenMIDIDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#a36867e04d2aba64f8c637c9c1a544e4"><param name="Name" value="AdrOpenSampleSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#09d0e03fda82faca9ad620271463141c"><param name="Name" value="AdrOpenSampleSourceFromFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#3a76887db365a929e2e2097da768a4b9"><param name="Name" value="AdrOpenSound"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#08b9c6a5ab6c6281e61e95196ea1d8ee"><param name="Name" value="AdrOpenSoundEffect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html"><param name="Name" value="audiere.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#4f884dc0c0f411603798953f752d7543"><param name="Name" value="ADR_CALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#21ab6bef284e8eb41b2e9f5c7a863d70"><param name="Name" value="ADR_DECL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#05395ec5538872ff8d4e325177b43aca"><param name="Name" value="ADR_FUNCTION"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#1050c1ecba16146bd5b87041b9bfed6c"><param name="Name" value="ADR_METHOD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html"><param name="Name" value="audiere::AudioDevice"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#35a1f175db1d74202e9d72bd5f691b94"><param name="Name" value="clearCallbacks"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#bdaf509c94b729fc395fb33713627dc1"><param name="Name" value="getName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#900988cd0e05d396c599dc3b8f378127"><param name="Name" value="openBuffer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#18a5381727186904635066b895aaa23e"><param name="Name" value="openStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#fbf6795bbd7830a104191b20dd368a4a"><param name="Name" value="registerCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#6e4e64e16d45308b54f1000ced0f1a8b"><param name="Name" value="unregisterCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#c911df91faf49bcc7aa3eca60a1a5e7f"><param name="Name" value="update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#ae3603183dadf4c7b6ed38d4a1d64e70"><param name="Name" value="~AudioDevice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1AudioDeviceDesc.html"><param name="Name" value="audiere::AudioDeviceDesc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1AudioDeviceDesc.html#020896efcd75766baf16073a207b5c89"><param name="Name" value="description"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1AudioDeviceDesc.html#adb52f256759e8e42fdc7c36ba2c700b"><param name="Name" value="name"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html"><param name="Name" value="audiere::Callback"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#b1a1d2609d88ce2953c570f9a1d4278b"><param name="Name" value="call"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#3ffee859a2bf762964fd0adf61076af8"><param name="Name" value="getType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#ffd2ccb4c7c8a681a1dc97b729e044d1"><param name="Name" value="~Callback"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html"><param name="Name" value="audiere::CDDevice"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#3d598ac66faf984714367e9b48ffb15c"><param name="Name" value="closeDoor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#f46f55ae9f94e8f6885f73c205fd1c01"><param name="Name" value="containsCD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#362aa8042f3aa4d2dec1891fe11a8a72"><param name="Name" value="getName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#5bd60c36385989108ea9cc2293df3b4d"><param name="Name" value="getTrackCount"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#5b6deb1b3f9f02a351f83b282deaad55"><param name="Name" value="isDoorOpen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#f0ea8cda2085bc17828df453d6011fb7"><param name="Name" value="isPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#7c036074b735dcdab61aa017ffa01a88"><param name="Name" value="openDoor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#8c6f225f7166bd15ebc58c1e6a7c4313"><param name="Name" value="pause"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#edb43b1eefeda75a36fc576f7f5821ba"><param name="Name" value="play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#4aef8d92d0edb08506a9150e5a564ce9"><param name="Name" value="resume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#3077f97f0c5038bf66cf772fccce8de3"><param name="Name" value="stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#3e9ec5f8fce8acdf8d7d77bd2094da5b"><param name="Name" value="~CDDevice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Event.html"><param name="Name" value="audiere::Event"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Event.html#727a09b3ca1849eec92a938681fae5ff"><param name="Name" value="getType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Event.html#ec9c8171d618d1753a908c6fd97ab728"><param name="Name" value="~Event"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html"><param name="Name" value="audiere::File"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc00da0d4db79f318c5826d36961ae13fe2"><param name="Name" value="BEGIN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc0e84cfd2d329e849b188b437b41d7890f"><param name="Name" value="CURRENT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc01d79a460e45f16f1a44c4f7e81f146ed"><param name="Name" value="END"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9c3db57d6165478ab13643c205b922fe"><param name="Name" value="read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#d54cc4c72c2fcad3a832bebefb5da9f2"><param name="Name" value="seek"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc0"><param name="Name" value="SeekMode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#6e9dfa7931e72203f0099f80f8d7a91e"><param name="Name" value="tell"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#78524230682e4c4c5b7f9f092b4e655d"><param name="Name" value="~File"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1FileFormatDesc.html"><param name="Name" value="audiere::FileFormatDesc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1FileFormatDesc.html#a1eb1a4459d88c72c589eee8c4753c90"><param name="Name" value="description"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1FileFormatDesc.html#636cb5fcc87e299f503d8e497f8d8003"><param name="Name" value="extensions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html"><param name="Name" value="audiere::hidden"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#0e660776ab4cb90aa4fb77a377848738"><param name="Name" value="AdrCreateLoopPointSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#2ac6574fa7f32ef26190a1543a15a082"><param name="Name" value="AdrCreateMemoryFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#9f511bebb5304684a2b8853d9b3951a4"><param name="Name" value="AdrCreatePinkNoise"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#a6fb22d76f7cf70cbf28525880670901"><param name="Name" value="AdrCreateSampleBuffer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#bd035ef0de4521edcd4d7f8b918ba9b7"><param name="Name" value="AdrCreateSampleBufferFromSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#5c95a2bcd6f705e92c1b03e244e9b093"><param name="Name" value="AdrCreateSquareWave"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#e5adca6aae5332f7756fa0bc3d8fc37b"><param name="Name" value="AdrCreateTone"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#e45772c21750a92f4c00e6239734b8db"><param name="Name" value="AdrCreateWhiteNoise"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#8539628fcb9e52bae4bcf685a7d07569"><param name="Name" value="AdrEnumerateCDDevices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#e4f69e9885c49880473878f14359e54b"><param name="Name" value="AdrGetSampleSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#f0cfc82ad099963738e8bd6383f7bacb"><param name="Name" value="AdrGetSupportedAudioDevices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#3243baa774707302150aec0ee822a242"><param name="Name" value="AdrGetSupportedFileFormats"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#9235dc8958fd4a902ce3f83933ed70bb"><param name="Name" value="AdrGetVersion"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#3d6d5e7c166bb622f5918b7b1a9c177c"><param name="Name" value="AdrOpenCDDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#cbfd45fa16e676015f347c831f9025fd"><param name="Name" value="AdrOpenDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#cf9918638a587af7380c95ea43f14434"><param name="Name" value="AdrOpenFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#25d988586f8bd130add6afad510e49f0"><param name="Name" value="AdrOpenMIDIDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#a36867e04d2aba64f8c637c9c1a544e4"><param name="Name" value="AdrOpenSampleSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#09d0e03fda82faca9ad620271463141c"><param name="Name" value="AdrOpenSampleSourceFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#3a76887db365a929e2e2097da768a4b9"><param name="Name" value="AdrOpenSound"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere_1_1hidden.html#08b9c6a5ab6c6281e61e95196ea1d8ee"><param name="Name" value="AdrOpenSoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html"><param name="Name" value="audiere::LoopPointSource"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#1d3f099f11da96bcc6f7c5b42ba50989"><param name="Name" value="addLoopPoint"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#0ebd920b3826fa9e0630641fc2ef310b"><param name="Name" value="getLoopPoint"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#b3cb779ef3daae071e368e664dcc6b43"><param name="Name" value="getLoopPointCount"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#1a3a0f5245cbec1a7934cc8ad7103940"><param name="Name" value="removeLoopPoint"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#208e3d561d7e99fa097fa08b8fc4f17f"><param name="Name" value="~LoopPointSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIDevice.html"><param name="Name" value="audiere::MIDIDevice"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIDevice.html#82e736cee239f15a9ffaf56ef863e412"><param name="Name" value="getName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIDevice.html#dbbcb7cc8eaf7978346911a454e99039"><param name="Name" value="openStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIDevice.html#65a5da3596c9051bc9aa31120bada096"><param name="Name" value="~MIDIDevice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#56b6fe680b9d58444d9be78af6ab7e19"><param name="Name" value="getLength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#17e3e83d6e3e80e6a75357b68bfc692c"><param name="Name" value="getPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#9e99c6b8276d7d4770efd30672b29599"><param name="Name" value="getRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#ead5f31f826ff99beda2144132d13f39"><param name="Name" value="isPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#1b7b55dfcf4618a46be5581986e0a8e2"><param name="Name" value="pause"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#722294c692e8b36be05935ffee0b2afb"><param name="Name" value="play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#15e28b6242656ae3e264c9317a3b91d9"><param name="Name" value="setPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#acf4b113528bf7a4c5d0c1080e9d52bc"><param name="Name" value="setRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#57df2f5cb134053614b0f75aebc9a3f1"><param name="Name" value="stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#de234ff739ec1d65fb72e4fc7254d9d5"><param name="Name" value="~MIDIStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html"><param name="Name" value="audiere::OutputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#c31d5d95509d985fe61d9317361930f5"><param name="Name" value="getLength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#352bf89967b10115e4b7014e1a8f98e5"><param name="Name" value="getPan"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#edbfd2971a6efd5bbdb049374f5fb6bc"><param name="Name" value="getPitchShift"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#f7de34c2f4de03bcac4eb00f50480587"><param name="Name" value="getPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#911a319846c42e98a26f14c4297f27a7"><param name="Name" value="getRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#ab1297bb23a43a5b22abecde147dad85"><param name="Name" value="getVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#1d6fd24a03c1c88a62b2b8f680cf0a14"><param name="Name" value="isPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4f4c4f610addc572786dd3b4ee34258a"><param name="Name" value="isSeekable"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#042e6ac8eb066797f8480dd2564b8ea4"><param name="Name" value="play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#da39bd951df8f9be76a22999a70947cd"><param name="Name" value="reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4fba59d077a20b9cce80c7d91e50d5f0"><param name="Name" value="setPan"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#e33fe882cd570cb6349a57580fb26dee"><param name="Name" value="setPitchShift"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#b0c6289693df5c509c51335774b8702c"><param name="Name" value="setPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4df9c922ff75dfba7db328467cec43f1"><param name="Name" value="setRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#58907c51fd71b546b068165c9ed34578"><param name="Name" value="setVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#904381d0d33ec93d847de996772f67dd"><param name="Name" value="stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#0a6b5f718beb677d2cc52910fc380701"><param name="Name" value="~OutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html"><param name="Name" value="audiere::RefCounted"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#4e1335dd73e656f76e2019a4183f8656"><param name="Name" value="ref"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#9c438ed821a496dff97c2203347ec4c7"><param name="Name" value="unref"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#91b2f1bbb4e46a8cf59a9fda6f99d994"><param name="Name" value="~RefCounted"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="Name" value="audiere::RefImplementation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#7b021433bd371c5b992668852955379d"><param name="Name" value="ref"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#2e5ca16b3be31fe891e1ddfbfa73cc05"><param name="Name" value="RefImplementation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#17ba1d2da12cc72370aa55ede2e3461a"><param name="Name" value="unref"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#131d2d8940932a624d20b8001090ebc2"><param name="Name" value="~RefImplementation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html"><param name="Name" value="audiere::RefPtr"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#b872bb103cfb424f2af2ac66fbbae3b6"><param name="Name" value="get"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#1c9a7cc9812b1388bb43a4af18fd0792"><param name="Name" value="operator *"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#8a508aaa0f5089e572ee8e14855d1ce3"><param name="Name" value="operator bool"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#2b47c7a94d539893c63719d79d2472ba"><param name="Name" value="operator->"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#d331d1d113717f658977b0be5b2fa1b7"><param name="Name" value="operator="></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#0aa93f7cba09282817954072b9e6647d"><param name="Name" value="RefPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#11f637fd3b3ff1b7a8137e743b3a113a"><param name="Name" value="~RefPtr"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html"><param name="Name" value="audiere::SampleBuffer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#cddb30ae56375a663f1f561248a085ca"><param name="Name" value="getFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#a40a535fda16648e057a8c6b2a5540d6"><param name="Name" value="getLength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#b3e7372a981cac7f990e0c795ddc8452"><param name="Name" value="getSamples"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#314784a18161a302f2367fc5084a3cc9"><param name="Name" value="openStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#a2e558c6a73565eb91b334e064493ee5"><param name="Name" value="~SampleBuffer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#ac298a12d77aef824889bb0e8486b21f"><param name="Name" value="getFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#370b9cf580d6c3fdcc8d931b9be96d06"><param name="Name" value="getLength"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#5cb670c777d9eb21f1b07ab781bababb"><param name="Name" value="getPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#6a7d5462406aa2508b4152e1bc4f575d"><param name="Name" value="getRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#714eefae71fde132fe138e5cfc4ef493"><param name="Name" value="getTagCount"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#19014c017a085fd8b6ea24ab3bd2635f"><param name="Name" value="getTagKey"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#7664a50abbd7fcd4f9a5fcdf0b218717"><param name="Name" value="getTagType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#41cdd2f78bf5a24a78b8cd77581d362e"><param name="Name" value="getTagValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#f828aff2b1e1a33c6b6a91b847d62c71"><param name="Name" value="isSeekable"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#508a2ce0209e662264fe0317e1d6b8d3"><param name="Name" value="read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#14db66f2af245f104f7db9b4dd7a62de"><param name="Name" value="reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#905786be70dd750b088daf6ba73e74fd"><param name="Name" value="setPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#011f3d35431ed1e07d36928f68af04fa"><param name="Name" value="setRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#955e9757200dd60ddf88f373bd07e48c"><param name="Name" value="~SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#e9e6c9f1b124519c30d0471289545176"><param name="Name" value="getPan"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#3bbbec81b16fe32e89b4675e16a68bb2"><param name="Name" value="getPitchShift"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#bea0a53d1e89b1f43062058156a5940e"><param name="Name" value="getVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#3a798c01292d22589bb6a643c9f36ff8"><param name="Name" value="play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#7db166fd683643a95794e876ff83053b"><param name="Name" value="setPan"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#71a0dabeff90a4233e42b15dab2792c9"><param name="Name" value="setPitchShift"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#82f3a0f353c21bba7442ec789fdeb486"><param name="Name" value="setVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#baa6647df4d39cefa20a6fda9f77c4b5"><param name="Name" value="stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#152fd6f168389d730fa83d7e5a5a9152"><param name="Name" value="~SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html"><param name="Name" value="audiere::StopCallback"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#9f72c997e9531fb0fba602177743aed0"><param name="Name" value="call"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#76c8b44eeab7db3059ac98858d983939"><param name="Name" value="getType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#3b2afa47722e6ea475d987cddeb2572a"><param name="Name" value="streamStopped"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#cf46b4c2a92890a7ab96ec96c12114b0"><param name="Name" value="~StopCallback"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html"><param name="Name" value="audiere::StopEvent"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#567fafcb7f78599aed944fe782576887"><param name="Name" value="getOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#5a2a69ceadf2da4f71cc39710d948f1d"><param name="Name" value="getReason"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#ebd81b2b824d495e16072effc4d4332e"><param name="Name" value="getType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#a0c553c4c49a60597bcb24b6be227087"><param name="Name" value="Reason"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#a0c553c4c49a60597bcb24b6be227087e8fcf1dd76b0fb514e45dc23eecfdc33"><param name="Name" value="STOP_CALLED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#a0c553c4c49a60597bcb24b6be227087036a39e05bedf4d2a1d5e58a9b611722"><param name="Name" value="STREAM_ENDED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#70510a313e5db6d5a5d54d49bfbff296"><param name="Name" value="~StopEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html"><param name="Name" value="audiere"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c526e367a29acae536c43c4790ca1feb"><param name="Name" value="AudioDevicePtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#76c7741eb8fb542067c5d5705a394d6b"><param name="Name" value="CallbackPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#114c6ccf6c418290af247b15ba01d8a0"><param name="Name" value="CDDevicePtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#d0d474351a889546843e9655c3732272"><param name="Name" value="CreateLoopPointSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#f884cc8120db54cc9204d8890567dd97"><param name="Name" value="CreateMemoryFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#a17e061816804e4c365dc79306349648"><param name="Name" value="CreatePinkNoise"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#99f624690875ef87349382011c5394f2"><param name="Name" value="CreateSampleBuffer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#92a690acc0284981de6c4eb0fd8daba1"><param name="Name" value="CreateSquareWave"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#19af30228084de0d8dadeec81f1804f0"><param name="Name" value="CreateTone"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#02617ef16a60a036a96723fd59595de3"><param name="Name" value="CreateWhiteNoise"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#2e626beb6a6a397bb28eec6fb7debbef"><param name="Name" value="EnumerateCDDevices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#4973d3ba192e6b538d5ebabfcd149ecb2aa1026644925598afc0eec091377629"><param name="Name" value="ET_STOP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#68071dac4b4537726d6ab1eb71b7687f"><param name="Name" value="EventPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#4973d3ba192e6b538d5ebabfcd149ecb"><param name="Name" value="EventType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0c51f01130e01f1ad41823d43675425a3"><param name="Name" value="FF_AIFF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0a52f6e624a167a9da4c8bd7ef5c14cc1"><param name="Name" value="FF_AUTODETECT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f00371c7d12a87bb5d8735801ac17580dd"><param name="Name" value="FF_FLAC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0acafbb20b4d35e278eaa9256163b760e"><param name="Name" value="FF_MOD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0a1bfa3ff78034e2c9469141098c029f5"><param name="Name" value="FF_MP3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f00d4a3cc3dd68a028904ed7d3feae93d4"><param name="Name" value="FF_OGG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f07a3e5ad397bb9fa9fdbcbd4a011fbcb4"><param name="Name" value="FF_SPEEX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0622fceb42762419d9d0b0ef52237ba6d"><param name="Name" value="FF_WAV"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0"><param name="Name" value="FileFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#2834492dcab065cf1bf63670a4da72bc"><param name="Name" value="FilePtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#a4c0cda45a45b516e45d64c4146dc0c1"><param name="Name" value="GetSampleSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#5cac3d114531093533564a81308d5269"><param name="Name" value="GetSupportedAudioDevices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#3f3700635489d66bea2a51992038046f"><param name="Name" value="GetSupportedFileFormats"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#4649c00c80beb9567b944aa2e3b78b0e"><param name="Name" value="GetVersion"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#b9c1f9a3c5c864425e39658bf5f2788e"><param name="Name" value="LoopPointSourcePtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#8f8dbab7095e033f61ec75615c821e3d"><param name="Name" value="MIDIDevicePtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#0f63e77177c878fea5a2696015021c4e"><param name="Name" value="MIDIStreamPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#e75be72503810c976c3aacc5d02d2a5a9b78d419174d324cbea3e0fa7be8292f"><param name="Name" value="MULTIPLE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#2d105df175407f96fc3241a6c1433168"><param name="Name" value="OpenCDDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#80cd1fd1cf2d1c7f0cbd63f7189e396e"><param name="Name" value="OpenDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#6af6bd5768d31967368ae3450a73e9d8"><param name="Name" value="OpenFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#b1ccc308b190e7b0ee863884d7edd73c"><param name="Name" value="OpenMIDIDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#832c5a56ffa20e519c6b3a1a89397251"><param name="Name" value="OpenSampleSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#3cb1571c99b8269b3eef418279932841"><param name="Name" value="OpenSound"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#76c00cd654686d3d66843001ac03e308"><param name="Name" value="OpenSoundEffect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#bdc49a7e10b031322203c3a9e457ab71"><param name="Name" value="operator!="></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#1ccd5eef3e9aa59a8c7689758b76888b"><param name="Name" value="operator=="></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#1bb95f342620596ffb28fcfe69f2f0c1"><param name="Name" value="OutputStreamPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#6d15da500416adab133c03663db5c546"><param name="Name" value="SampleBufferPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#fba159c5abc7918a9dc5e684a7782866"><param name="Name" value="SampleFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#708de17c384849bb9a2b82095e4936b2"><param name="Name" value="SampleSourcePtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#fba159c5abc7918a9dc5e684a7782866a99133dfca2c94aa6f71905cc4eaa89e"><param name="Name" value="SF_S16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#fba159c5abc7918a9dc5e684a7782866ef5b0f3885533d3c72d24a4366b0af0e"><param name="Name" value="SF_U8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#e75be72503810c976c3aacc5d02d2a5aaa589d152cec3bc89f0f5d56586b2138"><param name="Name" value="SINGLE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#92be92047b00aadb67e015e060118de2"><param name="Name" value="SoundEffectPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#e75be72503810c976c3aacc5d02d2a5a"><param name="Name" value="SoundEffectType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#aa0dc624d758630d148b7aa39f06c940"><param name="Name" value="SplitString"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#275dda6e539f6b2808a9ee3ca560d21e"><param name="Name" value="StopCallbackPtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#652cfe296d775abc67d01070651a9f39"><param name="Name" value="StopEventPtr"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c526e367a29acae536c43c4790ca1feb"><param name="Name" value="AudioDevicePtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc00da0d4db79f318c5826d36961ae13fe2"><param name="Name" value="BEGIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#b1a1d2609d88ce2953c570f9a1d4278b"><param name="Name" value="call"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#b1a1d2609d88ce2953c570f9a1d4278b"><param name="Name" value="audiere::Callback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#9f72c997e9531fb0fba602177743aed0"><param name="Name" value="audiere::StopCallback"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#76c7741eb8fb542067c5d5705a394d6b"><param name="Name" value="CallbackPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#114c6ccf6c418290af247b15ba01d8a0"><param name="Name" value="CDDevicePtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#35a1f175db1d74202e9d72bd5f691b94"><param name="Name" value="clearCallbacks"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#3d598ac66faf984714367e9b48ffb15c"><param name="Name" value="closeDoor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#f46f55ae9f94e8f6885f73c205fd1c01"><param name="Name" value="containsCD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#d0d474351a889546843e9655c3732272"><param name="Name" value="CreateLoopPointSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#f884cc8120db54cc9204d8890567dd97"><param name="Name" value="CreateMemoryFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#a17e061816804e4c365dc79306349648"><param name="Name" value="CreatePinkNoise"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#99f624690875ef87349382011c5394f2"><param name="Name" value="CreateSampleBuffer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#92a690acc0284981de6c4eb0fd8daba1"><param name="Name" value="CreateSquareWave"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#19af30228084de0d8dadeec81f1804f0"><param name="Name" value="CreateTone"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#02617ef16a60a036a96723fd59595de3"><param name="Name" value="CreateWhiteNoise"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc0e84cfd2d329e849b188b437b41d7890f"><param name="Name" value="CURRENT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1AudioDeviceDesc.html#020896efcd75766baf16073a207b5c89"><param name="Name" value="description"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1AudioDeviceDesc.html#020896efcd75766baf16073a207b5c89"><param name="Name" value="audiere::AudioDeviceDesc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1FileFormatDesc.html#a1eb1a4459d88c72c589eee8c4753c90"><param name="Name" value="audiere::FileFormatDesc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc01d79a460e45f16f1a44c4f7e81f146ed"><param name="Name" value="END"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#2e626beb6a6a397bb28eec6fb7debbef"><param name="Name" value="EnumerateCDDevices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#4973d3ba192e6b538d5ebabfcd149ecb2aa1026644925598afc0eec091377629"><param name="Name" value="ET_STOP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#68071dac4b4537726d6ab1eb71b7687f"><param name="Name" value="EventPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#4973d3ba192e6b538d5ebabfcd149ecb"><param name="Name" value="EventType"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1FileFormatDesc.html#636cb5fcc87e299f503d8e497f8d8003"><param name="Name" value="extensions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0c51f01130e01f1ad41823d43675425a3"><param name="Name" value="FF_AIFF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0a52f6e624a167a9da4c8bd7ef5c14cc1"><param name="Name" value="FF_AUTODETECT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f00371c7d12a87bb5d8735801ac17580dd"><param name="Name" value="FF_FLAC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0acafbb20b4d35e278eaa9256163b760e"><param name="Name" value="FF_MOD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0a1bfa3ff78034e2c9469141098c029f5"><param name="Name" value="FF_MP3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f00d4a3cc3dd68a028904ed7d3feae93d4"><param name="Name" value="FF_OGG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f07a3e5ad397bb9fa9fdbcbd4a011fbcb4"><param name="Name" value="FF_SPEEX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0622fceb42762419d9d0b0ef52237ba6d"><param name="Name" value="FF_WAV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#c6d340e5f45bf1c7b19c52ef5be5e9f0"><param name="Name" value="FileFormat"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#2834492dcab065cf1bf63670a4da72bc"><param name="Name" value="FilePtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#b872bb103cfb424f2af2ac66fbbae3b6"><param name="Name" value="get"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#cddb30ae56375a663f1f561248a085ca"><param name="Name" value="getFormat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#cddb30ae56375a663f1f561248a085ca"><param name="Name" value="audiere::SampleBuffer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#ac298a12d77aef824889bb0e8486b21f"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#56b6fe680b9d58444d9be78af6ab7e19"><param name="Name" value="getLength"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#56b6fe680b9d58444d9be78af6ab7e19"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#c31d5d95509d985fe61d9317361930f5"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#a40a535fda16648e057a8c6b2a5540d6"><param name="Name" value="audiere::SampleBuffer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#370b9cf580d6c3fdcc8d931b9be96d06"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#0ebd920b3826fa9e0630641fc2ef310b"><param name="Name" value="getLoopPoint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#b3cb779ef3daae071e368e664dcc6b43"><param name="Name" value="getLoopPointCount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#bdaf509c94b729fc395fb33713627dc1"><param name="Name" value="getName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#bdaf509c94b729fc395fb33713627dc1"><param name="Name" value="audiere::AudioDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#362aa8042f3aa4d2dec1891fe11a8a72"><param name="Name" value="audiere::CDDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIDevice.html#82e736cee239f15a9ffaf56ef863e412"><param name="Name" value="audiere::MIDIDevice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#567fafcb7f78599aed944fe782576887"><param name="Name" value="getOutputStream"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#352bf89967b10115e4b7014e1a8f98e5"><param name="Name" value="getPan"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#352bf89967b10115e4b7014e1a8f98e5"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#e9e6c9f1b124519c30d0471289545176"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#edbfd2971a6efd5bbdb049374f5fb6bc"><param name="Name" value="getPitchShift"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#edbfd2971a6efd5bbdb049374f5fb6bc"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#3bbbec81b16fe32e89b4675e16a68bb2"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#17e3e83d6e3e80e6a75357b68bfc692c"><param name="Name" value="getPosition"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#17e3e83d6e3e80e6a75357b68bfc692c"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#f7de34c2f4de03bcac4eb00f50480587"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#5cb670c777d9eb21f1b07ab781bababb"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#5a2a69ceadf2da4f71cc39710d948f1d"><param name="Name" value="getReason"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#9e99c6b8276d7d4770efd30672b29599"><param name="Name" value="getRepeat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#9e99c6b8276d7d4770efd30672b29599"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#911a319846c42e98a26f14c4297f27a7"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#6a7d5462406aa2508b4152e1bc4f575d"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#b3e7372a981cac7f990e0c795ddc8452"><param name="Name" value="getSamples"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#a4c0cda45a45b516e45d64c4146dc0c1"><param name="Name" value="GetSampleSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#5cac3d114531093533564a81308d5269"><param name="Name" value="GetSupportedAudioDevices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#3f3700635489d66bea2a51992038046f"><param name="Name" value="GetSupportedFileFormats"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#714eefae71fde132fe138e5cfc4ef493"><param name="Name" value="getTagCount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#19014c017a085fd8b6ea24ab3bd2635f"><param name="Name" value="getTagKey"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#7664a50abbd7fcd4f9a5fcdf0b218717"><param name="Name" value="getTagType"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#41cdd2f78bf5a24a78b8cd77581d362e"><param name="Name" value="getTagValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#5bd60c36385989108ea9cc2293df3b4d"><param name="Name" value="getTrackCount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#3ffee859a2bf762964fd0adf61076af8"><param name="Name" value="getType"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#3ffee859a2bf762964fd0adf61076af8"><param name="Name" value="audiere::Callback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Event.html#727a09b3ca1849eec92a938681fae5ff"><param name="Name" value="audiere::Event"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#76c8b44eeab7db3059ac98858d983939"><param name="Name" value="audiere::StopCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#ebd81b2b824d495e16072effc4d4332e"><param name="Name" value="audiere::StopEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#4649c00c80beb9567b944aa2e3b78b0e"><param name="Name" value="GetVersion"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#ab1297bb23a43a5b22abecde147dad85"><param name="Name" value="getVolume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#ab1297bb23a43a5b22abecde147dad85"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#bea0a53d1e89b1f43062058156a5940e"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#5b6deb1b3f9f02a351f83b282deaad55"><param name="Name" value="isDoorOpen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#f0ea8cda2085bc17828df453d6011fb7"><param name="Name" value="isPlaying"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#f0ea8cda2085bc17828df453d6011fb7"><param name="Name" value="audiere::CDDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#ead5f31f826ff99beda2144132d13f39"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#1d6fd24a03c1c88a62b2b8f680cf0a14"><param name="Name" value="audiere::OutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4f4c4f610addc572786dd3b4ee34258a"><param name="Name" value="isSeekable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4f4c4f610addc572786dd3b4ee34258a"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#f828aff2b1e1a33c6b6a91b847d62c71"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#b9c1f9a3c5c864425e39658bf5f2788e"><param name="Name" value="LoopPointSourcePtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#8f8dbab7095e033f61ec75615c821e3d"><param name="Name" value="MIDIDevicePtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#0f63e77177c878fea5a2696015021c4e"><param name="Name" value="MIDIStreamPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#e75be72503810c976c3aacc5d02d2a5a9b78d419174d324cbea3e0fa7be8292f"><param name="Name" value="MULTIPLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structaudiere_1_1AudioDeviceDesc.html#adb52f256759e8e42fdc7c36ba2c700b"><param name="Name" value="name"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#900988cd0e05d396c599dc3b8f378127"><param name="Name" value="openBuffer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#2d105df175407f96fc3241a6c1433168"><param name="Name" value="OpenCDDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#80cd1fd1cf2d1c7f0cbd63f7189e396e"><param name="Name" value="OpenDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#7c036074b735dcdab61aa017ffa01a88"><param name="Name" value="openDoor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#6af6bd5768d31967368ae3450a73e9d8"><param name="Name" value="OpenFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#b1ccc308b190e7b0ee863884d7edd73c"><param name="Name" value="OpenMIDIDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#832c5a56ffa20e519c6b3a1a89397251"><param name="Name" value="OpenSampleSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#3cb1571c99b8269b3eef418279932841"><param name="Name" value="OpenSound"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#76c00cd654686d3d66843001ac03e308"><param name="Name" value="OpenSoundEffect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#18a5381727186904635066b895aaa23e"><param name="Name" value="openStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#18a5381727186904635066b895aaa23e"><param name="Name" value="audiere::AudioDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIDevice.html#dbbcb7cc8eaf7978346911a454e99039"><param name="Name" value="audiere::MIDIDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#314784a18161a302f2367fc5084a3cc9"><param name="Name" value="audiere::SampleBuffer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#1c9a7cc9812b1388bb43a4af18fd0792"><param name="Name" value="operator *"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#8a508aaa0f5089e572ee8e14855d1ce3"><param name="Name" value="operator bool"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#bdc49a7e10b031322203c3a9e457ab71"><param name="Name" value="operator!="></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#2b47c7a94d539893c63719d79d2472ba"><param name="Name" value="operator->"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#1ccd5eef3e9aa59a8c7689758b76888b"><param name="Name" value="operator=="></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#d331d1d113717f658977b0be5b2fa1b7"><param name="Name" value="operator="></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#1bb95f342620596ffb28fcfe69f2f0c1"><param name="Name" value="OutputStreamPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#8c6f225f7166bd15ebc58c1e6a7c4313"><param name="Name" value="pause"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#8c6f225f7166bd15ebc58c1e6a7c4313"><param name="Name" value="audiere::CDDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#1b7b55dfcf4618a46be5581986e0a8e2"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#edb43b1eefeda75a36fc576f7f5821ba"><param name="Name" value="play"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#edb43b1eefeda75a36fc576f7f5821ba"><param name="Name" value="audiere::CDDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#722294c692e8b36be05935ffee0b2afb"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#042e6ac8eb066797f8480dd2564b8ea4"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#3a798c01292d22589bb6a643c9f36ff8"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9c3db57d6165478ab13643c205b922fe"><param name="Name" value="read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9c3db57d6165478ab13643c205b922fe"><param name="Name" value="audiere::File"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#508a2ce0209e662264fe0317e1d6b8d3"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#a0c553c4c49a60597bcb24b6be227087"><param name="Name" value="Reason"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#4e1335dd73e656f76e2019a4183f8656"><param name="Name" value="ref"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#4e1335dd73e656f76e2019a4183f8656"><param name="Name" value="audiere::RefCounted"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#7b021433bd371c5b992668852955379d"><param name="Name" value="audiere::RefImplementation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#2e5ca16b3be31fe891e1ddfbfa73cc05"><param name="Name" value="RefImplementation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#0aa93f7cba09282817954072b9e6647d"><param name="Name" value="RefPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#fbf6795bbd7830a104191b20dd368a4a"><param name="Name" value="registerCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#1a3a0f5245cbec1a7934cc8ad7103940"><param name="Name" value="removeLoopPoint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#da39bd951df8f9be76a22999a70947cd"><param name="Name" value="reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#da39bd951df8f9be76a22999a70947cd"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#14db66f2af245f104f7db9b4dd7a62de"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#4aef8d92d0edb08506a9150e5a564ce9"><param name="Name" value="resume"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#6d15da500416adab133c03663db5c546"><param name="Name" value="SampleBufferPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#fba159c5abc7918a9dc5e684a7782866"><param name="Name" value="SampleFormat"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#708de17c384849bb9a2b82095e4936b2"><param name="Name" value="SampleSourcePtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#d54cc4c72c2fcad3a832bebefb5da9f2"><param name="Name" value="seek"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#9b3664d8d93c1065f817509a85c44fc0"><param name="Name" value="SeekMode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4fba59d077a20b9cce80c7d91e50d5f0"><param name="Name" value="setPan"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4fba59d077a20b9cce80c7d91e50d5f0"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#7db166fd683643a95794e876ff83053b"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#e33fe882cd570cb6349a57580fb26dee"><param name="Name" value="setPitchShift"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#e33fe882cd570cb6349a57580fb26dee"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#71a0dabeff90a4233e42b15dab2792c9"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#15e28b6242656ae3e264c9317a3b91d9"><param name="Name" value="setPosition"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#15e28b6242656ae3e264c9317a3b91d9"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#b0c6289693df5c509c51335774b8702c"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#905786be70dd750b088daf6ba73e74fd"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#acf4b113528bf7a4c5d0c1080e9d52bc"><param name="Name" value="setRepeat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#acf4b113528bf7a4c5d0c1080e9d52bc"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#4df9c922ff75dfba7db328467cec43f1"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#011f3d35431ed1e07d36928f68af04fa"><param name="Name" value="audiere::SampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#58907c51fd71b546b068165c9ed34578"><param name="Name" value="setVolume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#58907c51fd71b546b068165c9ed34578"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#82f3a0f353c21bba7442ec789fdeb486"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#fba159c5abc7918a9dc5e684a7782866a99133dfca2c94aa6f71905cc4eaa89e"><param name="Name" value="SF_S16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#fba159c5abc7918a9dc5e684a7782866ef5b0f3885533d3c72d24a4366b0af0e"><param name="Name" value="SF_U8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#e75be72503810c976c3aacc5d02d2a5aaa589d152cec3bc89f0f5d56586b2138"><param name="Name" value="SINGLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#92be92047b00aadb67e015e060118de2"><param name="Name" value="SoundEffectPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#e75be72503810c976c3aacc5d02d2a5a"><param name="Name" value="SoundEffectType"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#aa0dc624d758630d148b7aa39f06c940"><param name="Name" value="SplitString"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#3077f97f0c5038bf66cf772fccce8de3"><param name="Name" value="stop"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#3077f97f0c5038bf66cf772fccce8de3"><param name="Name" value="audiere::CDDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#57df2f5cb134053614b0f75aebc9a3f1"><param name="Name" value="audiere::MIDIStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#904381d0d33ec93d847de996772f67dd"><param name="Name" value="audiere::OutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#baa6647df4d39cefa20a6fda9f77c4b5"><param name="Name" value="audiere::SoundEffect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#a0c553c4c49a60597bcb24b6be227087e8fcf1dd76b0fb514e45dc23eecfdc33"><param name="Name" value="STOP_CALLED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#275dda6e539f6b2808a9ee3ca560d21e"><param name="Name" value="StopCallbackPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceaudiere.html#652cfe296d775abc67d01070651a9f39"><param name="Name" value="StopEventPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#a0c553c4c49a60597bcb24b6be227087036a39e05bedf4d2a1d5e58a9b611722"><param name="Name" value="STREAM_ENDED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#3b2afa47722e6ea475d987cddeb2572a"><param name="Name" value="streamStopped"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#6e9dfa7931e72203f0099f80f8d7a91e"><param name="Name" value="tell"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#9c438ed821a496dff97c2203347ec4c7"><param name="Name" value="unref"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#9c438ed821a496dff97c2203347ec4c7"><param name="Name" value="audiere::RefCounted"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#17ba1d2da12cc72370aa55ede2e3461a"><param name="Name" value="audiere::RefImplementation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#6e4e64e16d45308b54f1000ced0f1a8b"><param name="Name" value="unregisterCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#c911df91faf49bcc7aa3eca60a1a5e7f"><param name="Name" value="update"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1AudioDevice.html#ae3603183dadf4c7b6ed38d4a1d64e70"><param name="Name" value="~AudioDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Callback.html#ffd2ccb4c7c8a681a1dc97b729e044d1"><param name="Name" value="~Callback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1CDDevice.html#3e9ec5f8fce8acdf8d7d77bd2094da5b"><param name="Name" value="~CDDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1Event.html#ec9c8171d618d1753a908c6fd97ab728"><param name="Name" value="~Event"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1File.html#78524230682e4c4c5b7f9f092b4e655d"><param name="Name" value="~File"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1LoopPointSource.html#208e3d561d7e99fa097fa08b8fc4f17f"><param name="Name" value="~LoopPointSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIDevice.html#65a5da3596c9051bc9aa31120bada096"><param name="Name" value="~MIDIDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1MIDIStream.html#de234ff739ec1d65fb72e4fc7254d9d5"><param name="Name" value="~MIDIStream"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1OutputStream.html#0a6b5f718beb677d2cc52910fc380701"><param name="Name" value="~OutputStream"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefCounted.html#91b2f1bbb4e46a8cf59a9fda6f99d994"><param name="Name" value="~RefCounted"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefImplementation.html#131d2d8940932a624d20b8001090ebc2"><param name="Name" value="~RefImplementation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1RefPtr.html#11f637fd3b3ff1b7a8137e743b3a113a"><param name="Name" value="~RefPtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleBuffer.html#a2e558c6a73565eb91b334e064493ee5"><param name="Name" value="~SampleBuffer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SampleSource.html#955e9757200dd60ddf88f373bd07e48c"><param name="Name" value="~SampleSource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1SoundEffect.html#152fd6f168389d730fa83d7e5a5a9152"><param name="Name" value="~SoundEffect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopCallback.html#cf46b4c2a92890a7ab96ec96c12114b0"><param name="Name" value="~StopCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classaudiere_1_1StopEvent.html#70510a313e5db6d5a5d54d49bfbff296"><param name="Name" value="~StopEvent"></OBJECT>
+</UL>

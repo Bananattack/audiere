@@ -1,0 +1,5 @@
+base referer
+rect $classaudiere_1_1StopEvent.html 75,155 211,181
+rect $classaudiere_1_1RefCounted.html 71,5 215,32
+rect $classaudiere_1_1RefImplementation.html 5,229 280,256
+rect $classaudiere_1_1StopEventImpl.html 61,304 224,331

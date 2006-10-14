@@ -1,0 +1,5 @@
+base referer
+rect $classaudiere_1_1RefImplementation.html 17,155 249,181
+rect $classaudiere_1_1RefCounted.html 61,5 205,32
+rect $classaudiere_1_1CFile.html 5,229 112,256
+rect $classaudiere_1_1MemoryFile.html 136,229 280,256

@@ -1,0 +1,5 @@
+base referer
+rect $debug_8h.html 167,56 236,83
+rect $default__file_8h.html 152,157 251,184
+rect $audiere_8h.html 424,157 501,184
+rect $internal_8h.html 299,208 376,235

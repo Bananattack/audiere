@@ -1,0 +1,12 @@
+base referer
+rect $classaudiere_1_1AudioDevice.html 207,5 356,32
+rect $classaudiere_1_1Callback.html 219,56 344,83
+rect $classaudiere_1_1CDDevice.html 215,107 348,133
+rect $classaudiere_1_1Event.html 227,157 336,184
+rect $classaudiere_1_1File.html 233,208 329,235
+rect $classaudiere_1_1MIDIDevice.html 209,259 353,285
+rect $classaudiere_1_1MIDIStream.html 208,309 355,336
+rect $classaudiere_1_1OutputStream.html 203,360 360,387
+rect $classaudiere_1_1SampleBuffer.html 204,411 359,437
+rect $classaudiere_1_1SampleSource.html 200,461 363,488
+rect $classaudiere_1_1SoundEffect.html 208,512 355,539

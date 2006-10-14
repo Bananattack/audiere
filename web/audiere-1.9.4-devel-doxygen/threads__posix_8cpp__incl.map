@@ -1,0 +1,6 @@
+base referer
+rect $threads_8h.html 189,208 267,235
+rect $utility_8h.html 196,309 260,336
+rect $debug_8h.html 321,157 391,184
+rect $audiere_8h.html 317,360 395,387
+rect $types_8h.html 323,411 389,437

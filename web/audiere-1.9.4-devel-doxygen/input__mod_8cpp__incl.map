@@ -1,0 +1,6 @@
+base referer
+rect $input__mod_8h.html 166,107 262,133
+rect $debug_8h.html 179,233 248,260
+rect $audiere_8h.html 470,157 547,184
+rect $basic__source_8h.html 310,107 422,133
+rect $types_8h.html 332,5 399,32

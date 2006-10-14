@@ -1,0 +1,7 @@
+base referer
+rect $debug_8h.html 192,81 261,108
+rect $input__speex_8h.html 175,309 279,336
+rect $audiere_8h.html 520,411 597,437
+rect $basic__source_8h.html 344,411 456,437
+rect $types_8h.html 525,157 592,184
+rect $utility_8h.html 368,309 432,336

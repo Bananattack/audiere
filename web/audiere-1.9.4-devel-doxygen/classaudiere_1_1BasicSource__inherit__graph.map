@@ -1,0 +1,14 @@
+base referer
+rect $classaudiere_1_1AIFFInputStream.html 557,6 733,32
+rect $classaudiere_1_1BufferStream.html 568,56 723,83
+rect $classaudiere_1_1FLACInputStream.html 555,107 736,134
+rect $classaudiere_1_1MODInputStream.html 556,158 735,184
+rect $classaudiere_1_1MP3InputStream.html 559,208 732,235
+rect $classaudiere_1_1OGGInputStream.html 556,259 735,286
+rect $classaudiere_1_1PinkNoise.html 579,310 712,336
+rect $classaudiere_1_1SineWave.html 577,360 713,387
+rect $classaudiere_1_1SpeexInputStream.html 553,411 737,438
+rect $classaudiere_1_1SquareWave.html 569,462 721,488
+rect $classaudiere_1_1WAVInputStream.html 557,512 733,539
+rect $classaudiere_1_1WhiteNoise.html 573,563 717,590
+rect $classaudiere_1_1RefImplementation.html 7,284 305,311

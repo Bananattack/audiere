@@ -1,0 +1,9 @@
+base referer
+rect $audiere_8h.html 418,309 495,336
+rect $debug_8h.html 546,107 615,133
+rect $device__null_8h.html 142,259 243,285
+rect $threads_8h.html 418,107 495,133
+rect $internal_8h.html 291,309 368,336
+rect $device_8h.html 294,208 366,235
+rect $types_8h.html 423,360 490,387
+rect $utility_8h.html 298,461 362,488

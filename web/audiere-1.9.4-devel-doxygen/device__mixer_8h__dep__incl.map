@@ -1,0 +1,8 @@
+base referer
+rect $device__al_8h.html 187,5 278,32
+rect $device__mixer_8cpp.html 170,56 295,83
+rect $device__mm_8h.html 182,107 283,133
+rect $device__oss_8h.html 183,157 282,184
+rect $device__al_8cpp.html 351,5 455,32
+rect $device__mm_8cpp.html 344,107 462,133
+rect $device__oss_8cpp.html 346,157 460,184

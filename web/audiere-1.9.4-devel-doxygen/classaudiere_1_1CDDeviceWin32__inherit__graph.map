@@ -1,0 +1,5 @@
+base referer
+rect $classaudiere_1_1RefImplementation.html 5,155 277,181
+rect $classaudiere_1_1CDDevice.html 75,80 208,107
+rect $classaudiere_1_1RefCounted.html 69,5 213,32
+rect $classaudiere_1_1MCIDevice.html 301,155 440,181

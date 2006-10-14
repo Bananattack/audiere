@@ -1,0 +1,193 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Audiere 1.9.0"><param name="Local" value="main.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere.h"><param name="Local" value="audiere_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="debug.cpp"><param name="Local" value="debug_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="debug.h"><param name="Local" value="debug_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="default_file.h"><param name="Local" value="default__file_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device.cpp"><param name="Local" value="device_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_al.cpp"><param name="Local" value="device__al_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_al.h"><param name="Local" value="device__al_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_ds.cpp"><param name="Local" value="device__ds_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_ds.h"><param name="Local" value="device__ds_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_ds_buffer.cpp"><param name="Local" value="device__ds__buffer_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_ds_buffer.h"><param name="Local" value="device__ds__buffer_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_ds_stream.cpp"><param name="Local" value="device__ds__stream_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_ds_stream.h"><param name="Local" value="device__ds__stream_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_mixer.cpp"><param name="Local" value="device__mixer_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_mixer.h"><param name="Local" value="device__mixer_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_mm.cpp"><param name="Local" value="device__mm_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_mm.h"><param name="Local" value="device__mm_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_null.cpp"><param name="Local" value="device__null_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_null.h"><param name="Local" value="device__null_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_oal.cpp"><param name="Local" value="device__oal_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_oal.h"><param name="Local" value="device__oal_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_oss.cpp"><param name="Local" value="device__oss_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="device_oss.h"><param name="Local" value="device__oss_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="file_ansi.cpp"><param name="Local" value="file__ansi_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="input.cpp"><param name="Local" value="input_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="input_mod.cpp"><param name="Local" value="input__mod_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="input_mod.h"><param name="Local" value="input__mod_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="input_ogg.cpp"><param name="Local" value="input__ogg_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="input_ogg.h"><param name="Local" value="input__ogg_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="input_wav.cpp"><param name="Local" value="input__wav_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="input_wav.h"><param name="Local" value="input__wav_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="internal.h"><param name="Local" value="internal_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="mainpage.doxy"><param name="Local" value="mainpage_8doxy.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="repeatable.cpp"><param name="Local" value="repeatable_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="repeatable.h"><param name="Local" value="repeatable_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="resampler.cpp"><param name="Local" value="resampler_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="resampler.h"><param name="Local" value="resampler_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="sample_buffer.cpp"><param name="Local" value="sample__buffer_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="sound.cpp"><param name="Local" value="sound_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="threads.h"><param name="Local" value="threads_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="threads_posix.cpp"><param name="Local" value="threads__posix_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="threads_win32.cpp"><param name="Local" value="threads__win32_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="timer.h"><param name="Local" value="timer_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="timer_ansi.cpp"><param name="Local" value="timer__ansi_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="timer_posix.cpp"><param name="Local" value="timer__posix_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="timer_win32.cpp"><param name="Local" value="timer__win32_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="tone.cpp"><param name="Local" value="tone_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="types.h"><param name="Local" value="types_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="utility.cpp"><param name="Local" value="utility_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="utility.h"><param name="Local" value="utility_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="version.cpp"><param name="Local" value="version_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Compound List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::AI_CriticalSectionStruct"><param name="Local" value="structaudiere_1_1AI__CriticalSectionStruct.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ALAudioDevice"><param name="Local" value="classaudiere_1_1ALAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::AudioDevice"><param name="Local" value="classaudiere_1_1AudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::BufferStream"><param name="Local" value="classaudiere_1_1BufferStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::CFile"><param name="Local" value="classaudiere_1_1CFile.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::DSAudioDevice"><param name="Local" value="classaudiere_1_1DSAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::DSOutputBuffer"><param name="Local" value="classaudiere_1_1DSOutputBuffer.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::DSOutputStream"><param name="Local" value="classaudiere_1_1DSOutputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::File"><param name="Local" value="classaudiere_1_1File.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Guard"><param name="Local" value="classaudiere_1_1Guard.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Lock"><param name="Local" value="classaudiere_1_1Lock.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Log"><param name="Local" value="classaudiere_1_1Log.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MixerDevice"><param name="Local" value="classaudiere_1_1MixerDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MixerStream"><param name="Local" value="classaudiere_1_1MixerStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MMAudioDevice"><param name="Local" value="classaudiere_1_1MMAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MODInputStream"><param name="Local" value="classaudiere_1_1MODInputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::NullAudioDevice"><param name="Local" value="classaudiere_1_1NullAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::NullOutputStream"><param name="Local" value="classaudiere_1_1NullOutputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OALAudioDevice"><param name="Local" value="classaudiere_1_1OALAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OALOutputStream"><param name="Local" value="classaudiere_1_1OALOutputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OGGInputStream"><param name="Local" value="classaudiere_1_1OGGInputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OSSAudioDevice"><param name="Local" value="classaudiere_1_1OSSAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OutputStream"><param name="Local" value="classaudiere_1_1OutputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ParameterList"><param name="Local" value="classaudiere_1_1ParameterList.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefCounted"><param name="Local" value="classaudiere_1_1RefCounted.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefImplementation< Interface >"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefPtr< T >"><param name="Local" value="classaudiere_1_1RefPtr.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RepeatableStream"><param name="Local" value="classaudiere_1_1RepeatableStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Resampler"><param name="Local" value="classaudiere_1_1Resampler.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SampleBuffer"><param name="Local" value="classaudiere_1_1SampleBuffer.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SampleBufferImpl"><param name="Local" value="classaudiere_1_1SampleBufferImpl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SampleSource"><param name="Local" value="classaudiere_1_1SampleSource.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SineWave"><param name="Local" value="classaudiere_1_1SineWave.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Synchronized"><param name="Local" value="classaudiere_1_1Synchronized.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ThreadedDevice"><param name="Local" value="classaudiere_1_1ThreadedDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ThreadInternal"><param name="Local" value="structaudiere_1_1ThreadInternal.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::UnseekableSource"><param name="Local" value="classaudiere_1_1UnseekableSource.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::WAVInputStream"><param name="Local" value="classaudiere_1_1WAVInputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::AI_CriticalSectionStruct"><param name="Local" value="structaudiere_1_1AI__CriticalSectionStruct.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Guard"><param name="Local" value="classaudiere_1_1Guard.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Lock"><param name="Local" value="classaudiere_1_1Lock.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Log"><param name="Local" value="classaudiere_1_1Log.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ParameterList"><param name="Local" value="classaudiere_1_1ParameterList.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefCounted"><param name="Local" value="classaudiere_1_1RefCounted.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::AudioDevice"><param name="Local" value="classaudiere_1_1AudioDevice.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefImplementation< AudioDevice >"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::DSAudioDevice"><param name="Local" value="classaudiere_1_1DSAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MixerDevice"><param name="Local" value="classaudiere_1_1MixerDevice.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ALAudioDevice"><param name="Local" value="classaudiere_1_1ALAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MMAudioDevice"><param name="Local" value="classaudiere_1_1MMAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OSSAudioDevice"><param name="Local" value="classaudiere_1_1OSSAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::NullAudioDevice"><param name="Local" value="classaudiere_1_1NullAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OALAudioDevice"><param name="Local" value="classaudiere_1_1OALAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ThreadedDevice"><param name="Local" value="classaudiere_1_1ThreadedDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::File"><param name="Local" value="classaudiere_1_1File.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefImplementation< File >"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::CFile"><param name="Local" value="classaudiere_1_1CFile.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OutputStream"><param name="Local" value="classaudiere_1_1OutputStream.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefImplementation< OutputStream >"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::DSOutputBuffer"><param name="Local" value="classaudiere_1_1DSOutputBuffer.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::DSOutputStream"><param name="Local" value="classaudiere_1_1DSOutputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MixerStream"><param name="Local" value="classaudiere_1_1MixerStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::NullOutputStream"><param name="Local" value="classaudiere_1_1NullOutputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OALOutputStream"><param name="Local" value="classaudiere_1_1OALOutputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SampleBuffer"><param name="Local" value="classaudiere_1_1SampleBuffer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefImplementation< SampleBuffer >"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SampleBufferImpl"><param name="Local" value="classaudiere_1_1SampleBufferImpl.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SampleSource"><param name="Local" value="classaudiere_1_1SampleSource.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefImplementation< SampleSource >"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::BufferStream"><param name="Local" value="classaudiere_1_1BufferStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::OGGInputStream"><param name="Local" value="classaudiere_1_1OGGInputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RepeatableStream"><param name="Local" value="classaudiere_1_1RepeatableStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Resampler"><param name="Local" value="classaudiere_1_1Resampler.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::UnseekableSource"><param name="Local" value="classaudiere_1_1UnseekableSource.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MODInputStream"><param name="Local" value="classaudiere_1_1MODInputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::SineWave"><param name="Local" value="classaudiere_1_1SineWave.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::WAVInputStream"><param name="Local" value="classaudiere_1_1WAVInputStream.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefImplementation< Interface >"><param name="Local" value="classaudiere_1_1RefImplementation.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::RefPtr< T >"><param name="Local" value="classaudiere_1_1RefPtr.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::Synchronized"><param name="Local" value="classaudiere_1_1Synchronized.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::DSAudioDevice"><param name="Local" value="classaudiere_1_1DSAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::MixerDevice"><param name="Local" value="classaudiere_1_1MixerDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::NullAudioDevice"><param name="Local" value="classaudiere_1_1NullAudioDevice.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::ThreadInternal"><param name="Local" value="structaudiere_1_1ThreadInternal.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Compound Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace List"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere"><param name="Local" value="namespaceaudiere.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="audiere::hidden"><param name="Local" value="namespaceaudiere_1_1hidden.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Related Pages"><param name="Local" value="pages.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Todo List"><param name="Local" value="todo.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Graphical Class Hierarchy"><param name="Local" value="inherits.html"><param name="ImageNumber" value="11"></OBJECT>
+</UL>

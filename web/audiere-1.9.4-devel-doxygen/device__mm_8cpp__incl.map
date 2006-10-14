@@ -1,0 +1,12 @@
+base referer
+rect $device__mm_8h.html 172,107 273,134
+rect $utility_8h.html 660,614 724,640
+rect $internal_8h.html 493,158 571,184
+rect $device__mixer_8h.html 324,335 436,362
+rect $audiere_8h.html 805,259 883,286
+rect $device_8h.html 496,310 568,336
+rect $threads_8h.html 653,310 731,336
+rect $resampler_8h.html 487,436 577,463
+rect $types_8h.html 811,512 877,539
+rect $debug_8h.html 809,360 879,387
+rect $dumb__resample_8h.html 628,462 756,488

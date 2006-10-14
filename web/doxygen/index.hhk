@@ -1,0 +1,1337 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AddRef"><param name="Name" value="AddRef"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#a0"><param name="Name" value="Context"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AddSource"><param name="Name" value="AddSource"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a5"><param name="Name" value="Mixer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_ASSERT"><param name="Name" value="ADR_ASSERT"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a4"><param name="Name" value="debug.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_BEGIN"><param name="Name" value="ADR_BEGIN"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37a11"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_BOOL"><param name="Name" value="ADR_BOOL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a6"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_CALL"><param name="Name" value="ADR_CALL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a1"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_CONTEXT"><param name="Name" value="ADR_CONTEXT"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a9"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_CONTEXT_ATTR"><param name="Name" value="ADR_CONTEXT_ATTR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a8"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m4"><param name="Name" value="close"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m2"><param name="Name" value="opaque"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m3"><param name="Name" value="open"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m0"><param name="Name" value="output_device"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m1"><param name="Name" value="parameters"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m5"><param name="Name" value="read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m6"><param name="Name" value="seek"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m7"><param name="Name" value="tell"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_CURRENT"><param name="Name" value="ADR_CURRENT"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37a12"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_END"><param name="Name" value="ADR_END"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37a13"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_FALSE"><param name="Name" value="ADR_FALSE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a3"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_FILE"><param name="Name" value="ADR_FILE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a7"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__FileHandle.html"><param name="Name" value="ADR_FileHandle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__FileHandle.html#m0"><param name="Name" value="handle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_GUARD"><param name="Name" value="ADR_GUARD"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a1"><param name="Name" value="debug.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_IF_DEBUG"><param name="Name" value="ADR_IF_DEBUG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a3"><param name="Name" value="debug.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_LOG"><param name="Name" value="ADR_LOG"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a2"><param name="Name" value="debug.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_max"><param name="Name" value="adr_max"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a3"><param name="Name" value="utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_min"><param name="Name" value="adr_min"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a2"><param name="Name" value="utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_s16"><param name="Name" value="adr_s16"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a3"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_s32"><param name="Name" value="adr_s32"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a5"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_s64"><param name="Name" value="adr_s64"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a7"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_s8"><param name="Name" value="adr_s8"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a1"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_SEEK_TYPE"><param name="Name" value="ADR_SEEK_TYPE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_STREAM"><param name="Name" value="ADR_STREAM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a10"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_TRUE"><param name="Name" value="ADR_TRUE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a2"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_u16"><param name="Name" value="adr_u16"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a2"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_u32"><param name="Name" value="adr_u32"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a4"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_u64"><param name="Name" value="adr_u64"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a6"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="adr_u8"><param name="Name" value="adr_u8"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a0"><param name="Name" value="config.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_VOLUME_MAX"><param name="Name" value="ADR_VOLUME_MAX"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a5"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADR_VOLUME_MIN"><param name="Name" value="ADR_VOLUME_MIN"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a4"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrCloseStream"><param name="Name" value="AdrCloseStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a14"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a28"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrContextAttrSetFileCallbacks"><param name="Name" value="AdrContextAttrSetFileCallbacks"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a10"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a24"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrContextAttrSetOpaque"><param name="Name" value="AdrContextAttrSetOpaque"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a9"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a23"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrContextAttrSetOutputDevice"><param name="Name" value="AdrContextAttrSetOutputDevice"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a7"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a21"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrContextAttrSetParameters"><param name="Name" value="AdrContextAttrSetParameters"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a8"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a22"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrCreateContext"><param name="Name" value="AdrCreateContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a11"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a25"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrCreateContextAttr"><param name="Name" value="AdrCreateContextAttr"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a5"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a19"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrDestroyContext"><param name="Name" value="AdrDestroyContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a12"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a26"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrDestroyContextAttr"><param name="Name" value="AdrDestroyContextAttr"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a6"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a20"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html"><param name="Name" value="ADRFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a0"><param name="Name" value="ADRFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#l0"><param name="Name" value="ADRFileSystem"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a2"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a3"><param name="Name" value="Seek"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a4"><param name="Name" value="Tell"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a1"><param name="Name" value="~ADRFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ADRFileSystem"><param name="Name" value="ADRFileSystem"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#l0"><param name="Name" value="ADRFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFileSystem.html#a0"><param name="Name" value="ADRFileSystem"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFileSystem.html#a1"><param name="Name" value="Open"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrGetStreamRepeat"><param name="Name" value="AdrGetStreamRepeat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a20"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a34"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrGetStreamVolume"><param name="Name" value="AdrGetStreamVolume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a22"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a36"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrGetVersion"><param name="Name" value="AdrGetVersion"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a4"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a18"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrIsStreamPlaying"><param name="Name" value="AdrIsStreamPlaying"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a18"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a32"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrOpenStream"><param name="Name" value="AdrOpenStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a13"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a27"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrPauseStream"><param name="Name" value="AdrPauseStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a16"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a30"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrPlayStream"><param name="Name" value="AdrPlayStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a15"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a29"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrResetStream"><param name="Name" value="AdrResetStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a17"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a31"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrSetStreamRepeat"><param name="Name" value="AdrSetStreamRepeat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a19"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a33"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AdrSetStreamVolume"><param name="Name" value="AdrSetStreamVolume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a21"><param name="Name" value="audiere.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a35"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_CreateCriticalSection"><param name="Name" value="AI_CreateCriticalSection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a5"><param name="Name" value="threads.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a3"><param name="Name" value="threads_posix.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a3"><param name="Name" value="threads_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_CreateThread"><param name="Name" value="AI_CreateThread"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a3"><param name="Name" value="threads.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a1"><param name="Name" value="threads_posix.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a1"><param name="Name" value="threads_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_CriticalSection"><param name="Name" value="AI_CriticalSection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a2"><param name="Name" value="threads.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structAI__CriticalSectionStruct.html"><param name="Name" value="AI_CriticalSectionStruct"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structAI__CriticalSectionStruct.html#m1"><param name="Name" value="cs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structAI__CriticalSectionStruct.html#m0"><param name="Name" value="mutex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_DestroyCriticalSection"><param name="Name" value="AI_DestroyCriticalSection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a6"><param name="Name" value="threads.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a4"><param name="Name" value="threads_posix.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a4"><param name="Name" value="threads_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_EnterCriticalSection"><param name="Name" value="AI_EnterCriticalSection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a7"><param name="Name" value="threads.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a5"><param name="Name" value="threads_posix.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a5"><param name="Name" value="threads_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_LeaveCriticalSection"><param name="Name" value="AI_LeaveCriticalSection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a8"><param name="Name" value="threads.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a6"><param name="Name" value="threads_posix.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a6"><param name="Name" value="threads_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classAI__Lock.html"><param name="Name" value="AI_Lock"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classAI__Lock.html#a0"><param name="Name" value="AI_Lock"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classAI__Lock.html#a1"><param name="Name" value="~AI_Lock"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_Sleep"><param name="Name" value="AI_Sleep"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a4"><param name="Name" value="threads.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a2"><param name="Name" value="threads_posix.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a2"><param name="Name" value="threads_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AI_ThreadRoutine"><param name="Name" value="AI_ThreadRoutine"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a1"><param name="Name" value="threads.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ALCcontext"><param name="Name" value="ALCcontext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__al_8hpp.html#a0"><param name="Name" value="output_al.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html"><param name="Name" value="ALOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a0"><param name="Name" value="ALOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#l0"><param name="Name" value="ALOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a2"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a4"><param name="Name" value="OpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a3"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a1"><param name="Name" value="~ALOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ALOutputStream"><param name="Name" value="ALOutputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#l0"><param name="Name" value="ALOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a5"><param name="Name" value="GetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a3"><param name="Name" value="IsPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a0"><param name="Name" value="Play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a2"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a4"><param name="Name" value="SetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a1"><param name="Name" value="Stop"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html"><param name="Name" value="audiere.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a14"><param name="Name" value="AdrCloseStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a10"><param name="Name" value="AdrContextAttrSetFileCallbacks"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a9"><param name="Name" value="AdrContextAttrSetOpaque"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a7"><param name="Name" value="AdrContextAttrSetOutputDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a8"><param name="Name" value="AdrContextAttrSetParameters"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a11"><param name="Name" value="AdrCreateContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a5"><param name="Name" value="AdrCreateContextAttr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a12"><param name="Name" value="AdrDestroyContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a6"><param name="Name" value="AdrDestroyContextAttr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a20"><param name="Name" value="AdrGetStreamRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a22"><param name="Name" value="AdrGetStreamVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a4"><param name="Name" value="AdrGetVersion"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a18"><param name="Name" value="AdrIsStreamPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a13"><param name="Name" value="AdrOpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a16"><param name="Name" value="AdrPauseStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a15"><param name="Name" value="AdrPlayStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a17"><param name="Name" value="AdrResetStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a19"><param name="Name" value="AdrSetStreamRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a21"><param name="Name" value="AdrSetStreamVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a2"><param name="Name" value="ExportContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a3"><param name="Name" value="ExportStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a0"><param name="Name" value="ImportContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a1"><param name="Name" value="ImportStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html"><param name="Name" value="audiere.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37a11"><param name="Name" value="ADR_BEGIN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a6"><param name="Name" value="ADR_BOOL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a1"><param name="Name" value="ADR_CALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a9"><param name="Name" value="ADR_CONTEXT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a8"><param name="Name" value="ADR_CONTEXT_ATTR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37a12"><param name="Name" value="ADR_CURRENT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37a13"><param name="Name" value="ADR_END"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a3"><param name="Name" value="ADR_FALSE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a7"><param name="Name" value="ADR_FILE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a37"><param name="Name" value="ADR_SEEK_TYPE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a10"><param name="Name" value="ADR_STREAM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a2"><param name="Name" value="ADR_TRUE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a5"><param name="Name" value="ADR_VOLUME_MAX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a4"><param name="Name" value="ADR_VOLUME_MIN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a28"><param name="Name" value="AdrCloseStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a24"><param name="Name" value="AdrContextAttrSetFileCallbacks"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a23"><param name="Name" value="AdrContextAttrSetOpaque"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a21"><param name="Name" value="AdrContextAttrSetOutputDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a22"><param name="Name" value="AdrContextAttrSetParameters"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a25"><param name="Name" value="AdrCreateContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a19"><param name="Name" value="AdrCreateContextAttr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a26"><param name="Name" value="AdrDestroyContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a20"><param name="Name" value="AdrDestroyContextAttr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a34"><param name="Name" value="AdrGetStreamRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a36"><param name="Name" value="AdrGetStreamVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a18"><param name="Name" value="AdrGetVersion"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a32"><param name="Name" value="AdrIsStreamPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a27"><param name="Name" value="AdrOpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a30"><param name="Name" value="AdrPauseStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a29"><param name="Name" value="AdrPlayStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a31"><param name="Name" value="AdrResetStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a33"><param name="Name" value="AdrSetStreamRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a35"><param name="Name" value="AdrSetStreamVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a0"><param name="Name" value="AUDIERE_H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a16"><param name="Name" value="int"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a15"><param name="Name" value="void"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="AUDIERE_H"><param name="Name" value="AUDIERE_H"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a0"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="BigToHost32"><param name="Name" value="BigToHost32"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a5"><param name="Name" value="endian.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="close"><param name="Name" value="close"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m4"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html"><param name="Name" value="config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a3"><param name="Name" value="adr_s16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a5"><param name="Name" value="adr_s32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a7"><param name="Name" value="adr_s64"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a1"><param name="Name" value="adr_s8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a2"><param name="Name" value="adr_u16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a4"><param name="Name" value="adr_u32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a6"><param name="Name" value="adr_u64"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="config_8h.html#a0"><param name="Name" value="adr_u8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="context_8hpp.html"><param name="Name" value="context.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="context_8hpp.html#a0"><param name="Name" value="CONTEXT_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html"><param name="Name" value="Context"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#a0"><param name="Name" value="AddRef"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#d0"><param name="Name" value="Create"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#a2"><param name="Name" value="OpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#a1"><param name="Name" value="Release"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#l0"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="CONTEXT_HPP"><param name="Name" value="CONTEXT_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="context_8hpp.html#a0"><param name="Name" value="context.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Create"><param name="Name" value="Create"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#d0"><param name="Name" value="Context"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="CRT_CALL"><param name="Name" value="CRT_CALL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__mod_8hpp.html#a1"><param name="Name" value="input_mod.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="cs"><param name="Name" value="cs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structAI__CriticalSectionStruct.html#m1"><param name="Name" value="AI_CriticalSectionStruct"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html"><param name="Name" value="debug.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a4"><param name="Name" value="ADR_ASSERT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a1"><param name="Name" value="ADR_GUARD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a3"><param name="Name" value="ADR_IF_DEBUG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a2"><param name="Name" value="ADR_LOG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a0"><param name="Name" value="DEBUG_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DEBUG_HPP"><param name="Name" value="DEBUG_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="debug_8hpp.html#a0"><param name="Name" value="debug.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html"><param name="Name" value="default_file.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a0"><param name="Name" value="DEFAULT_FILE_HPP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a2"><param name="Name" value="DefaultFileClose"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a1"><param name="Name" value="DefaultFileOpen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a3"><param name="Name" value="DefaultFileRead"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a4"><param name="Name" value="DefaultFileSeek"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a5"><param name="Name" value="DefaultFileTell"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DEFAULT_FILE_HPP"><param name="Name" value="DEFAULT_FILE_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a0"><param name="Name" value="default_file.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DefaultFileClose"><param name="Name" value="DefaultFileClose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a2"><param name="Name" value="default_file.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a1"><param name="Name" value="file_ansi.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a2"><param name="Name" value="file_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DefaultFileOpen"><param name="Name" value="DefaultFileOpen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a1"><param name="Name" value="default_file.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a0"><param name="Name" value="file_ansi.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a1"><param name="Name" value="file_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DefaultFileRead"><param name="Name" value="DefaultFileRead"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a3"><param name="Name" value="default_file.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a2"><param name="Name" value="file_ansi.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a3"><param name="Name" value="file_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DefaultFileSeek"><param name="Name" value="DefaultFileSeek"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a4"><param name="Name" value="default_file.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a3"><param name="Name" value="file_ansi.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a4"><param name="Name" value="file_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DefaultFileTell"><param name="Name" value="DefaultFileTell"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="default__file_8hpp.html#a5"><param name="Name" value="default_file.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a4"><param name="Name" value="file_ansi.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a5"><param name="Name" value="file_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classDS3OutputContext.html"><param name="Name" value="DS3OutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDS3OutputContext.html#a0"><param name="Name" value="DS3OutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDS3OutputContext.html#a1"><param name="Name" value="~DS3OutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classDS8OutputContext.html"><param name="Name" value="DS8OutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDS8OutputContext.html#a0"><param name="Name" value="DS8OutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html"><param name="Name" value="DSOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a0"><param name="Name" value="DSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#l0"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a2"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a4"><param name="Name" value="OpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a3"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a1"><param name="Name" value="~DSOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="DSOutputStream"><param name="Name" value="DSOutputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#l0"><param name="Name" value="DSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a6"><param name="Name" value="FillStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a5"><param name="Name" value="GetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a9"><param name="Name" value="IsBetween"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a3"><param name="Name" value="IsPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a0"><param name="Name" value="Play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a2"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a4"><param name="Name" value="SetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a1"><param name="Name" value="Stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a8"><param name="Name" value="StreamRead"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a7"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="end_is"><param name="Name" value="end_is"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8cpp.html#a1"><param name="Name" value="input.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html"><param name="Name" value="endian.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a5"><param name="Name" value="BigToHost32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a0"><param name="Name" value="ENDIAN_HPP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a1"><param name="Name" value="LITTLE_ENDIAN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a4"><param name="Name" value="LittleToHost32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a2"><param name="Name" value="Swap"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a3"><param name="Name" value="SwapEndianness32"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ENDIAN_HPP"><param name="Name" value="ENDIAN_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a0"><param name="Name" value="endian.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="eof"><param name="Name" value="eof"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structOGG__INTERNAL.html#m2"><param name="Name" value="OGG_INTERNAL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ExportContext"><param name="Name" value="ExportContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a2"><param name="Name" value="audiere.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ExportStream"><param name="Name" value="ExportStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a3"><param name="Name" value="audiere.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="file_8hpp.html"><param name="Name" value="file.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file_8hpp.html#a0"><param name="Name" value="FILE_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html"><param name="Name" value="file_ansi.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a1"><param name="Name" value="DefaultFileClose"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a0"><param name="Name" value="DefaultFileOpen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a2"><param name="Name" value="DefaultFileRead"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a3"><param name="Name" value="DefaultFileSeek"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__ansi_8cpp.html#a4"><param name="Name" value="DefaultFileTell"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="FILE_HPP"><param name="Name" value="FILE_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file_8hpp.html#a0"><param name="Name" value="file.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html"><param name="Name" value="file_win32.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a2"><param name="Name" value="DefaultFileClose"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a1"><param name="Name" value="DefaultFileOpen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a3"><param name="Name" value="DefaultFileRead"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a4"><param name="Name" value="DefaultFileSeek"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="file__win32_8cpp.html#a5"><param name="Name" value="DefaultFileTell"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="FillStream"><param name="Name" value="FillStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a6"><param name="Name" value="DSOutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="GetFormat"><param name="Name" value="GetFormat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a1"><param name="Name" value="ISampleSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a2"><param name="Name" value="Mixer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a3"><param name="Name" value="MODInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a3"><param name="Name" value="OGGInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a4"><param name="Name" value="RepeatableStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a2"><param name="Name" value="Resampler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a3"><param name="Name" value="WAVInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="GetNow"><param name="Name" value="GetNow"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer_8hpp.html#a1"><param name="Name" value="timer.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__ansi_8cpp.html#a0"><param name="Name" value="timer_ansi.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__posix_8cpp.html#a0"><param name="Name" value="timer_posix.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__win32_8cpp.html#a0"><param name="Name" value="timer_win32.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="GetRepeat"><param name="Name" value="GetRepeat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a3"><param name="Name" value="RepeatableStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="GetVolume"><param name="Name" value="GetVolume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a5"><param name="Name" value="ALOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a5"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a6"><param name="Name" value="IOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a9"><param name="Name" value="Mixer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a5"><param name="Name" value="NullOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a5"><param name="Name" value="OSSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a8"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="handle"><param name="Name" value="handle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__FileHandle.html#m0"><param name="Name" value="ADR_FileHandle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html"><param name="Name" value="IFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a1"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a2"><param name="Name" value="Seek"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a3"><param name="Name" value="Tell"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a0"><param name="Name" value="~IFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFileSystem.html"><param name="Name" value="IFileSystem"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFileSystem.html#a0"><param name="Name" value="Open"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ImportContext"><param name="Name" value="ImportContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a0"><param name="Name" value="audiere.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ImportStream"><param name="Name" value="ImportStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8cpp.html#a1"><param name="Name" value="audiere.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Initialize"><param name="Name" value="Initialize"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a2"><param name="Name" value="ALOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a2"><param name="Name" value="DSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a2"><param name="Name" value="MODInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a2"><param name="Name" value="NullOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a2"><param name="Name" value="OGGInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a2"><param name="Name" value="OSSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a2"><param name="Name" value="WAVInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8cpp.html"><param name="Name" value="input.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8cpp.html#a1"><param name="Name" value="end_is"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8cpp.html#a3"><param name="Name" value="OpenInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8cpp.html#a0"><param name="Name" value="TRY_SOURCE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8hpp.html"><param name="Name" value="input.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8hpp.html#a0"><param name="Name" value="INPUT_HPP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8hpp.html#a1"><param name="Name" value="OpenInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="INPUT_HPP"><param name="Name" value="INPUT_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8hpp.html#a0"><param name="Name" value="input.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input__mod_8hpp.html"><param name="Name" value="input_mod.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__mod_8hpp.html#a1"><param name="Name" value="CRT_CALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__mod_8hpp.html#a0"><param name="Name" value="INPUT_MOD_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="INPUT_MOD_HPP"><param name="Name" value="INPUT_MOD_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__mod_8hpp.html#a0"><param name="Name" value="input_mod.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input__ogg_8cpp.html"><param name="Name" value="input_ogg.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__ogg_8cpp.html#a0"><param name="Name" value="int64_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input__ogg_8hpp.html"><param name="Name" value="input_ogg.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__ogg_8hpp.html#a0"><param name="Name" value="INPUT_OGG_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="INPUT_OGG_HPP"><param name="Name" value="INPUT_OGG_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__ogg_8hpp.html#a0"><param name="Name" value="input_ogg.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input__wav_8hpp.html"><param name="Name" value="input_wav.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__wav_8hpp.html#a0"><param name="Name" value="INPUT_WAV_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="INPUT_WAV_HPP"><param name="Name" value="INPUT_WAV_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__wav_8hpp.html#a0"><param name="Name" value="input_wav.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="int64_t"><param name="Name" value="int64_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input__ogg_8cpp.html#a0"><param name="Name" value="input_ogg.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="int"><param name="Name" value="int"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a16"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputContext.html"><param name="Name" value="IOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputContext.html#a2"><param name="Name" value="OpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputContext.html#a1"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputContext.html#a0"><param name="Name" value="~IOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html"><param name="Name" value="IOutputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a6"><param name="Name" value="GetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a4"><param name="Name" value="IsPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a1"><param name="Name" value="Play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a3"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a5"><param name="Name" value="SetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a2"><param name="Name" value="Stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a0"><param name="Name" value="~IOutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html"><param name="Name" value="ISampleSource"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a1"><param name="Name" value="GetFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a2"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a3"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a0"><param name="Name" value="~ISampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="IsBetween"><param name="Name" value="IsBetween"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a9"><param name="Name" value="DSOutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="IsPlaying"><param name="Name" value="IsPlaying"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a3"><param name="Name" value="ALOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a3"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a4"><param name="Name" value="IOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a7"><param name="Name" value="Mixer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a3"><param name="Name" value="NullOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a3"><param name="Name" value="OSSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a4"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="IsRepeating"><param name="Name" value="IsRepeating"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a6"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="LITTLE_ENDIAN"><param name="Name" value="LITTLE_ENDIAN"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a1"><param name="Name" value="endian.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="LittleToHost32"><param name="Name" value="LittleToHost32"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a4"><param name="Name" value="endian.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="location"><param name="Name" value="location"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structOGG__INTERNAL.html#m1"><param name="Name" value="OGG_INTERNAL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Lock"><param name="Name" value="Lock"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html#a2"><param name="Name" value="Synchronized"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html"><param name="Name" value="Mixer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a5"><param name="Name" value="AddSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a2"><param name="Name" value="GetFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a9"><param name="Name" value="GetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a7"><param name="Name" value="IsPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a0"><param name="Name" value="Mixer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a3"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a6"><param name="Name" value="RemoveSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a4"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a8"><param name="Name" value="SetPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a10"><param name="Name" value="SetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a1"><param name="Name" value="~Mixer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html"><param name="Name" value="MODInputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a3"><param name="Name" value="GetFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a2"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a0"><param name="Name" value="MODInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a4"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a5"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a1"><param name="Name" value="~MODInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="mutex"><param name="Name" value="mutex"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structAI__CriticalSectionStruct.html#m0"><param name="Name" value="AI_CriticalSectionStruct"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html"><param name="Name" value="NullOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a2"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a0"><param name="Name" value="NullOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#l0"><param name="Name" value="NullOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a4"><param name="Name" value="OpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a3"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a1"><param name="Name" value="~NullOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html"><param name="Name" value="NullOutputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a5"><param name="Name" value="GetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a3"><param name="Name" value="IsPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#l0"><param name="Name" value="NullOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a0"><param name="Name" value="Play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a2"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a4"><param name="Name" value="SetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a1"><param name="Name" value="Stop"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structOGG__INTERNAL.html"><param name="Name" value="OGG_INTERNAL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structOGG__INTERNAL.html#m2"><param name="Name" value="eof"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structOGG__INTERNAL.html#m1"><param name="Name" value="location"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structOGG__INTERNAL.html#m0"><param name="Name" value="vf"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html"><param name="Name" value="OGGInputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a3"><param name="Name" value="GetFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a2"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a0"><param name="Name" value="OGGInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a4"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a5"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a1"><param name="Name" value="~OGGInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="opaque"><param name="Name" value="opaque"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m2"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structThreadInternal.html#m1"><param name="Name" value="ThreadInternal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="open"><param name="Name" value="open"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m3"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Open"><param name="Name" value="Open"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFileSystem.html#a1"><param name="Name" value="ADRFileSystem"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFileSystem.html#a0"><param name="Name" value="IFileSystem"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OpenContext"><param name="Name" value="OpenContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8cpp.html#a2"><param name="Name" value="output.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a3"><param name="Name" value="output.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OpenInputStream"><param name="Name" value="OpenInputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8cpp.html#a3"><param name="Name" value="input.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8hpp.html#a1"><param name="Name" value="input.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OpenStream"><param name="Name" value="OpenStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a4"><param name="Name" value="ALOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#a2"><param name="Name" value="Context"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a4"><param name="Name" value="DSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputContext.html#a2"><param name="Name" value="IOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a4"><param name="Name" value="NullOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a4"><param name="Name" value="OSSOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html"><param name="Name" value="OSSOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a2"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a4"><param name="Name" value="OpenStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a0"><param name="Name" value="OSSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#l0"><param name="Name" value="OSSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a3"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a1"><param name="Name" value="~OSSOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html"><param name="Name" value="OSSOutputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a5"><param name="Name" value="GetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a3"><param name="Name" value="IsPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#l0"><param name="Name" value="OSSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a0"><param name="Name" value="Play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a2"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a4"><param name="Name" value="SetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a1"><param name="Name" value="Stop"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8cpp.html"><param name="Name" value="output.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8cpp.html#a2"><param name="Name" value="OpenContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8cpp.html#a3"><param name="Name" value="ParseParameters"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8cpp.html#a0"><param name="Name" value="TRY_CONTEXT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html"><param name="Name" value="output.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a3"><param name="Name" value="OpenContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a0"><param name="Name" value="OUTPUT_HPP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a1"><param name="Name" value="Parameter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a2"><param name="Name" value="ParameterList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a4"><param name="Name" value="ParseParameters"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output__al_8hpp.html"><param name="Name" value="output_al.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__al_8hpp.html#a0"><param name="Name" value="ALCcontext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="output_device"><param name="Name" value="output_device"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m0"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds_8cpp.html"><param name="Name" value="output_ds.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds_8cpp.html#a1"><param name="Name" value="Volume_AudiereToDirectSound"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds_8hpp.html"><param name="Name" value="output_ds.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds_8hpp.html#a0"><param name="Name" value="OUTPUT_DS_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds3_8hpp.html"><param name="Name" value="output_ds3.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds3_8hpp.html#a0"><param name="Name" value="OUTPUT_DS3_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OUTPUT_DS3_HPP"><param name="Name" value="OUTPUT_DS3_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds3_8hpp.html#a0"><param name="Name" value="output_ds3.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds8_8hpp.html"><param name="Name" value="output_ds8.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds8_8hpp.html#a0"><param name="Name" value="OUTPUT_DS8_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OUTPUT_DS8_HPP"><param name="Name" value="OUTPUT_DS8_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds8_8hpp.html#a0"><param name="Name" value="output_ds8.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OUTPUT_DS_HPP"><param name="Name" value="OUTPUT_DS_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds_8hpp.html#a0"><param name="Name" value="output_ds.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OUTPUT_HPP"><param name="Name" value="OUTPUT_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a0"><param name="Name" value="output.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="output__null_8hpp.html"><param name="Name" value="output_null.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__null_8hpp.html#a0"><param name="Name" value="OUTPUT_NULL_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="OUTPUT_NULL_HPP"><param name="Name" value="OUTPUT_NULL_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__null_8hpp.html#a0"><param name="Name" value="output_null.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Parameter"><param name="Name" value="Parameter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a1"><param name="Name" value="output.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ParameterList"><param name="Name" value="ParameterList"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a2"><param name="Name" value="output.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="parameters"><param name="Name" value="parameters"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m1"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ParseParameters"><param name="Name" value="ParseParameters"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8cpp.html#a3"><param name="Name" value="output.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8hpp.html#a4"><param name="Name" value="output.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Pause"><param name="Name" value="Pause"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a2"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Play"><param name="Name" value="Play"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a0"><param name="Name" value="ALOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a0"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a1"><param name="Name" value="IOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a0"><param name="Name" value="NullOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a0"><param name="Name" value="OSSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a1"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="priority"><param name="Name" value="priority"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structThreadInternal.html#m2"><param name="Name" value="ThreadInternal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="read"><param name="Name" value="read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m5"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Read"><param name="Name" value="Read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a2"><param name="Name" value="ADRFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a1"><param name="Name" value="IFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a2"><param name="Name" value="ISampleSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a3"><param name="Name" value="Mixer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a4"><param name="Name" value="MODInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a4"><param name="Name" value="OGGInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a5"><param name="Name" value="RepeatableStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a3"><param name="Name" value="Resampler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a4"><param name="Name" value="WAVInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Release"><param name="Name" value="Release"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#a1"><param name="Name" value="Context"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="RemoveSource"><param name="Name" value="RemoveSource"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a6"><param name="Name" value="Mixer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="repeatable_8hpp.html"><param name="Name" value="repeatable.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="repeatable_8hpp.html#a0"><param name="Name" value="REPEATABLE_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="REPEATABLE_HPP"><param name="Name" value="REPEATABLE_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="repeatable_8hpp.html#a0"><param name="Name" value="repeatable.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html"><param name="Name" value="RepeatableStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a4"><param name="Name" value="GetFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a3"><param name="Name" value="GetRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a5"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a0"><param name="Name" value="RepeatableStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a6"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a2"><param name="Name" value="SetRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a1"><param name="Name" value="~RepeatableStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="resampler_8cpp.html"><param name="Name" value="resampler.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="resampler_8cpp.html#a0"><param name="Name" value="u8tos16"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html"><param name="Name" value="Resampler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a2"><param name="Name" value="GetFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a3"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a0"><param name="Name" value="Resampler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a4"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a1"><param name="Name" value="~Resampler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Reset"><param name="Name" value="Reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a2"><param name="Name" value="ALOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a2"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a3"><param name="Name" value="IOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a3"><param name="Name" value="ISampleSource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a4"><param name="Name" value="Mixer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a5"><param name="Name" value="MODInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a2"><param name="Name" value="NullOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a5"><param name="Name" value="OGGInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a2"><param name="Name" value="OSSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a6"><param name="Name" value="RepeatableStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a4"><param name="Name" value="Resampler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a3"><param name="Name" value="Stream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a5"><param name="Name" value="WAVInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="routine"><param name="Name" value="routine"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structThreadInternal.html#m0"><param name="Name" value="ThreadInternal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="seek"><param name="Name" value="seek"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m6"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Seek"><param name="Name" value="Seek"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a3"><param name="Name" value="ADRFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a2"><param name="Name" value="IFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="SetPlaying"><param name="Name" value="SetPlaying"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a8"><param name="Name" value="Mixer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="SetRepeat"><param name="Name" value="SetRepeat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a2"><param name="Name" value="RepeatableStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a5"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="SetVolume"><param name="Name" value="SetVolume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a4"><param name="Name" value="ALOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a4"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a5"><param name="Name" value="IOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a10"><param name="Name" value="Mixer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a4"><param name="Name" value="NullOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a4"><param name="Name" value="OSSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a7"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Stop"><param name="Name" value="Stop"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputStream.html#a1"><param name="Name" value="ALOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a1"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a2"><param name="Name" value="IOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputStream.html#a1"><param name="Name" value="NullOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputStream.html#a1"><param name="Name" value="OSSOutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="strcmp_case"><param name="Name" value="strcmp_case"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8cpp.html#a0"><param name="Name" value="utility.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a1"><param name="Name" value="utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="stream_8hpp.html"><param name="Name" value="stream.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="stream_8hpp.html#a0"><param name="Name" value="STREAM_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Stream"><param name="Name" value="Stream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classContext.html#l0"><param name="Name" value="Context"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a8"><param name="Name" value="GetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a4"><param name="Name" value="IsPlaying"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a6"><param name="Name" value="IsRepeating"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a2"><param name="Name" value="Pause"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a1"><param name="Name" value="Play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a3"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a5"><param name="Name" value="SetRepeat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a7"><param name="Name" value="SetVolume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a0"><param name="Name" value="~Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="STREAM_HPP"><param name="Name" value="STREAM_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="stream_8hpp.html#a0"><param name="Name" value="stream.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="StreamRead"><param name="Name" value="StreamRead"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a8"><param name="Name" value="DSOutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Swap"><param name="Name" value="Swap"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a2"><param name="Name" value="endian.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="SwapEndianness32"><param name="Name" value="SwapEndianness32"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="endian_8hpp.html#a3"><param name="Name" value="endian.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html"><param name="Name" value="Synchronized"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html#a2"><param name="Name" value="Lock"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html#a0"><param name="Name" value="Synchronized"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html#a3"><param name="Name" value="Unlock"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html#a1"><param name="Name" value="~Synchronized"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="tell"><param name="Name" value="tell"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structADR__CONTEXT__ATTRimp.html#m7"><param name="Name" value="ADR_CONTEXT_ATTRimp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Tell"><param name="Name" value="Tell"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a4"><param name="Name" value="ADRFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a3"><param name="Name" value="IFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structThreadInternal.html"><param name="Name" value="ThreadInternal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structThreadInternal.html#m1"><param name="Name" value="opaque"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structThreadInternal.html#m2"><param name="Name" value="priority"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structThreadInternal.html#m0"><param name="Name" value="routine"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="ThreadRoutine"><param name="Name" value="ThreadRoutine"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a0"><param name="Name" value="threads_posix.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html"><param name="Name" value="threads.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a5"><param name="Name" value="AI_CreateCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a3"><param name="Name" value="AI_CreateThread"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a2"><param name="Name" value="AI_CriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a6"><param name="Name" value="AI_DestroyCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a7"><param name="Name" value="AI_EnterCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a8"><param name="Name" value="AI_LeaveCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a4"><param name="Name" value="AI_Sleep"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a1"><param name="Name" value="AI_ThreadRoutine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a0"><param name="Name" value="THREADS_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="THREADS_HPP"><param name="Name" value="THREADS_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads_8hpp.html#a0"><param name="Name" value="threads.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html"><param name="Name" value="threads_posix.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a3"><param name="Name" value="AI_CreateCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a1"><param name="Name" value="AI_CreateThread"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a4"><param name="Name" value="AI_DestroyCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a5"><param name="Name" value="AI_EnterCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a6"><param name="Name" value="AI_LeaveCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a2"><param name="Name" value="AI_Sleep"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__posix_8cpp.html#a0"><param name="Name" value="ThreadRoutine"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html"><param name="Name" value="threads_win32.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a3"><param name="Name" value="AI_CreateCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a1"><param name="Name" value="AI_CreateThread"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a4"><param name="Name" value="AI_DestroyCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a5"><param name="Name" value="AI_EnterCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a6"><param name="Name" value="AI_LeaveCriticalSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="threads__win32_8cpp.html#a2"><param name="Name" value="AI_Sleep"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="timer_8hpp.html"><param name="Name" value="timer.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer_8hpp.html#a1"><param name="Name" value="GetNow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer_8hpp.html#a0"><param name="Name" value="TIMER_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__ansi_8cpp.html"><param name="Name" value="timer_ansi.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__ansi_8cpp.html#a0"><param name="Name" value="GetNow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="TIMER_HPP"><param name="Name" value="TIMER_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer_8hpp.html#a0"><param name="Name" value="timer.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__posix_8cpp.html"><param name="Name" value="timer_posix.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__posix_8cpp.html#a0"><param name="Name" value="GetNow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__win32_8cpp.html"><param name="Name" value="timer_win32.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="timer__win32_8cpp.html#a0"><param name="Name" value="GetNow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="TRY_CONTEXT"><param name="Name" value="TRY_CONTEXT"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output_8cpp.html#a0"><param name="Name" value="output.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="TRY_SOURCE"><param name="Name" value="TRY_SOURCE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8cpp.html#a0"><param name="Name" value="input.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="u8tos16"><param name="Name" value="u8tos16"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="resampler_8cpp.html#a0"><param name="Name" value="resampler.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Unlock"><param name="Name" value="Unlock"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html#a3"><param name="Name" value="Synchronized"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Update"><param name="Name" value="Update"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a3"><param name="Name" value="ALOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a3"><param name="Name" value="DSOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputStream.html#a7"><param name="Name" value="DSOutputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputContext.html#a1"><param name="Name" value="IOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a3"><param name="Name" value="NullOutputContext"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a3"><param name="Name" value="OSSOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8cpp.html"><param name="Name" value="utility.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8cpp.html#a0"><param name="Name" value="strcmp_case"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html"><param name="Name" value="utility.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a3"><param name="Name" value="adr_max"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a2"><param name="Name" value="adr_min"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a1"><param name="Name" value="strcmp_case"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a0"><param name="Name" value="UTILITY_HPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="UTILITY_HPP"><param name="Name" value="UTILITY_HPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utility_8hpp.html#a0"><param name="Name" value="utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="vf"><param name="Name" value="vf"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structOGG__INTERNAL.html#m0"><param name="Name" value="OGG_INTERNAL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="void"><param name="Name" value="void"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="audiere_8h.html#a15"><param name="Name" value="audiere.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="Volume_AudiereToDirectSound"><param name="Name" value="Volume_AudiereToDirectSound"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="output__ds_8cpp.html#a1"><param name="Name" value="output_ds.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html"><param name="Name" value="WAVInputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a3"><param name="Name" value="GetFormat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a2"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a4"><param name="Name" value="Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a5"><param name="Name" value="Reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a0"><param name="Name" value="WAVInputStream"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a1"><param name="Name" value="~WAVInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~ADRFile"><param name="Name" value="~ADRFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classADRFile.html#a1"><param name="Name" value="ADRFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~AI_Lock"><param name="Name" value="~AI_Lock"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classAI__Lock.html#a1"><param name="Name" value="AI_Lock"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~ALOutputContext"><param name="Name" value="~ALOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classALOutputContext.html#a1"><param name="Name" value="ALOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~DS3OutputContext"><param name="Name" value="~DS3OutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDS3OutputContext.html#a1"><param name="Name" value="DS3OutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~DSOutputContext"><param name="Name" value="~DSOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classDSOutputContext.html#a1"><param name="Name" value="DSOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~IFile"><param name="Name" value="~IFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIFile.html#a0"><param name="Name" value="IFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~IOutputContext"><param name="Name" value="~IOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputContext.html#a0"><param name="Name" value="IOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~IOutputStream"><param name="Name" value="~IOutputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classIOutputStream.html#a0"><param name="Name" value="IOutputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~ISampleSource"><param name="Name" value="~ISampleSource"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classISampleSource.html#a0"><param name="Name" value="ISampleSource"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~Mixer"><param name="Name" value="~Mixer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMixer.html#a1"><param name="Name" value="Mixer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~MODInputStream"><param name="Name" value="~MODInputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classMODInputStream.html#a1"><param name="Name" value="MODInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~NullOutputContext"><param name="Name" value="~NullOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classNullOutputContext.html#a1"><param name="Name" value="NullOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~OGGInputStream"><param name="Name" value="~OGGInputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOGGInputStream.html#a1"><param name="Name" value="OGGInputStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~OSSOutputContext"><param name="Name" value="~OSSOutputContext"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classOSSOutputContext.html#a1"><param name="Name" value="OSSOutputContext"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~RepeatableStream"><param name="Name" value="~RepeatableStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classRepeatableStream.html#a1"><param name="Name" value="RepeatableStream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~Resampler"><param name="Name" value="~Resampler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classResampler.html#a1"><param name="Name" value="Resampler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~Stream"><param name="Name" value="~Stream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classStream.html#a0"><param name="Name" value="Stream"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~Synchronized"><param name="Name" value="~Synchronized"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classSynchronized.html#a1"><param name="Name" value="Synchronized"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="See Also" value="~WAVInputStream"><param name="Name" value="~WAVInputStream"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classWAVInputStream.html#a1"><param name="Name" value="WAVInputStream"></OBJECT>
+</UL>

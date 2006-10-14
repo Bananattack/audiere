@@ -1,0 +1,10 @@
+base referer
+rect $device__ds__buffer_8h.html 204,120 337,147
+rect $device__ds_8h.html 224,247 317,273
+rect $audiere_8h.html 535,323 612,349
+rect $device_8h.html 400,272 472,299
+rect $threads_8h.html 535,221 612,248
+rect $internal_8h.html 397,373 475,400
+rect $utility_8h.html 404,475 468,501
+rect $debug_8h.html 663,247 732,273
+rect $types_8h.html 540,373 607,400

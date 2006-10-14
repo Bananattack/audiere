@@ -1,0 +1,5 @@
+base referer
+rect $classaudiere_1_1RefImplementation.html 67,155 352,181
+rect $classaudiere_1_1RefCounted.html 137,5 281,32
+rect $classaudiere_1_1MultipleSoundEffect.html 5,229 200,256
+rect $classaudiere_1_1SingleSoundEffect.html 224,229 408,256

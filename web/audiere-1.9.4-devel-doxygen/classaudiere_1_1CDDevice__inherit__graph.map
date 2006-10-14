@@ -1,0 +1,5 @@
+base referer
+rect $classaudiere_1_1RefImplementation.html 47,155 319,181
+rect $classaudiere_1_1RefCounted.html 111,5 255,32
+rect $classaudiere_1_1CDDeviceUnix.html 6,229 168,256
+rect $classaudiere_1_1CDDeviceWin32.html 192,229 366,256

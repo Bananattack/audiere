@@ -1,0 +1,7 @@
+base referer
+rect $audiere_8h.html 317,5 395,32
+rect $internal_8h.html 169,56 247,83
+rect $mci__device_8h.html 157,335 259,361
+rect $utility_8h.html 176,107 240,133
+rect $debug_8h.html 321,411 391,437
+rect $types_8h.html 323,208 389,235

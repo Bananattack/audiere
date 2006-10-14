@@ -1,0 +1,6 @@
+base referer
+rect $memory__file_8h.html 178,56 284,83
+rect $internal_8h.html 192,6 270,32
+rect $utility_8h.html 199,107 263,134
+rect $audiere_8h.html 334,6 411,32
+rect $types_8h.html 339,56 406,83

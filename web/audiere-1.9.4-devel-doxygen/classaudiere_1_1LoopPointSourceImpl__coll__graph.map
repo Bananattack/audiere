@@ -1,0 +1,6 @@
+base referer
+rect $classaudiere_1_1RefImplementation.html 5,251 320,277
+rect $classaudiere_1_1LoopPointSource.html 75,160 251,187
+rect $classaudiere_1_1SampleSource.html 81,83 244,109
+rect $classaudiere_1_1RefCounted.html 91,5 235,32
+rect $classaudiere_1_1RefPtr.html 344,251 488,277
