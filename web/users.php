@@ -11,6 +11,7 @@ Projects that use Audiere are listed here.
 <li><a href="http://www.avenger.sk/">Avenger</a></li>
 <li><a href="http://blueplayer.sourceforge.net/">BluePlayer</a></li>
 <li><a href="http://www.enkord.com/clashnslash/">Clash'N Slash</a></li>
+<li><a href="http://whatdreamswaycome.blogspot.com/">CrazyEngine</a></li>
 <li><a href="http://redsparkstudios.co.uk/djchainzsoundbox.htm">djchainz_soundbox</a></li>
 <li><a href="http://www.eitbit.com/games">Eitbit Games</a></li>
 <li><a href="http://www.freedombox.info">FreedomBox</a></li>
